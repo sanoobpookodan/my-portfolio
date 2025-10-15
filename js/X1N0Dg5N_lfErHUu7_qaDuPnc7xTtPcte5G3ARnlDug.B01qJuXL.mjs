@@ -4869,12 +4869,12 @@ var Un,
                                       nodeId: `hh11FWgSI`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `Brain`,
+                                        CuO7siNIx: `Code`,
                                         height: `100%`,
                                         id: `hh11FWgSI`,
-                                        IMn0WxFMz: `User-first flows, structure, and usability focus.`,
+                                        IMn0WxFMz: `Build high-quality cross-platform apps using React Native.`,
                                         layoutId: `hh11FWgSI`,
-                                        ps8egKa2j: `UX Designing`,
+                                        ps8egKa2j: `Mobile App Development`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -4935,12 +4935,12 @@ var Un,
                                       nodeId: `y77OLEu7E`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `Layout`,
+                                        CuO7siNIx: `Plug`,
                                         height: `100%`,
                                         id: `y77OLEu7E`,
-                                        IMn0WxFMz: `Clean, modern, and consistent visual design.`,
+                                        IMn0WxFMz: `Connect apps with REST APIs and services like Razorpay.`,
                                         layoutId: `y77OLEu7E`,
-                                        ps8egKa2j: `UI Designing`,
+                                        ps8egKa2j: `API Integration`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5001,12 +5001,12 @@ var Un,
                                       nodeId: `raZOLonfd`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `MagnifyingGlass`,
+                                        CuO7siNIx: `DeviceMobile`,
                                         height: `100%`,
                                         id: `raZOLonfd`,
-                                        IMn0WxFMz: `Insights through surveys, interviews, and analysis.`,
+                                        IMn0WxFMz: `Create optimized components with smooth animations.`,
                                         layoutId: `raZOLonfd`,
-                                        ps8egKa2j: `User Research`,
+                                        ps8egKa2j: `Reusable Components & Animations`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5067,12 +5067,12 @@ var Un,
                                       nodeId: `Ayig6b5o9`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `GitBranch`,
+                                        CuO7siNIx: `Layout`,
                                         height: `100%`,
                                         id: `Ayig6b5o9`,
-                                        IMn0WxFMz: `Quick ideas into testable design flows.`,
+                                        IMn0WxFMz: `Design pixel-perfect UIs for all screen sizes.`,
                                         layoutId: `Ayig6b5o9`,
-                                        ps8egKa2j: `Wireframing & Prototyping`,
+                                        ps8egKa2j: `Responsive UI Design`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5133,12 +5133,12 @@ var Un,
                                       nodeId: `p_B8tD6al`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `DeviceMobile`,
+                                        CuO7siNIx: `Shuffle`,
                                         height: `100%`,
                                         id: `p_B8tD6al`,
-                                        IMn0WxFMz: `Designs that work great on any screen.`,
+                                        IMn0WxFMz: `Manage app state efficiently using Redux and Context API.`,
                                         layoutId: `p_B8tD6al`,
-                                        ps8egKa2j: `Responsive & Mobile Design`,
+                                        ps8egKa2j: `State Management`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5199,14 +5199,210 @@ var Un,
                                       nodeId: `OVu31kbGh`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `Handshake`,
+                                        CuO7siNIx: `Users`,
                                         height: `100%`,
                                         id: `OVu31kbGh`,
-                                        IMn0WxFMz: `Seamless teamwork with developers and product teams.
-
-`,
+                                        IMn0WxFMz: `Work closely with designers, backend, and QA teams.`,
                                         layoutId: `OVu31kbGh`,
-                                        ps8egKa2j: `Collaboration & Handoff`,
+                                        ps8egKa2j: `Team Collaboration`,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                                o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    mExYMsC3z: {
+                                      width: `max((min(${
+                                        p?.width || `100vw`
+                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        5796.15 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        208,
+                                    },
+                                    yPVcpR5st: {
+                                      width: `max(min(${
+                                        p?.width || `100vw`
+                                      } - 32px, 1200px), 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        4087.4 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        520,
+                                    },
+                                  },
+                                  children: o(v, {
+                                    height: 80,
+                                    width: `max((min(${
+                                      p?.width || `100vw`
+                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    y:
+                                      (p?.y || 0) +
+                                      0 +
+                                      5976.15 +
+                                      0 +
+                                      0 +
+                                      0 +
+                                      130.4 +
+                                      0 +
+                                      208,
+                                    children: o(y, {
+                                      className: `framer-cyayjl-container`,
+                                      nodeId: `OVu31kbGh`,
+                                      scopeId: `dqkkaMW66`,
+                                      children: o(H, {
+                                        CuO7siNIx: `GitBranch`,
+                                        height: `100%`,
+                                        id: `OVu31kbGh`,
+                                        IMn0WxFMz: `Streamline deployment with Git and automated CI/CD workflows.`,
+                                        layoutId: `OVu31kbGh`,
+                                        ps8egKa2j: `CI/CD & Version Control`,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                                o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    mExYMsC3z: {
+                                      width: `max((min(${
+                                        p?.width || `100vw`
+                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        5796.15 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        208,
+                                    },
+                                    yPVcpR5st: {
+                                      width: `max(min(${
+                                        p?.width || `100vw`
+                                      } - 32px, 1200px), 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        4087.4 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        520,
+                                    },
+                                  },
+                                  children: o(v, {
+                                    height: 80,
+                                    width: `max((min(${
+                                      p?.width || `100vw`
+                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    y:
+                                      (p?.y || 0) +
+                                      0 +
+                                      5976.15 +
+                                      0 +
+                                      0 +
+                                      0 +
+                                      130.4 +
+                                      0 +
+                                      208,
+                                    children: o(y, {
+                                      className: `framer-cyayjl-container`,
+                                      nodeId: `OVu31kbGh`,
+                                      scopeId: `dqkkaMW66`,
+                                      children: o(H, {
+                                        CuO7siNIx: `MapPin`,
+                                        height: `100%`,
+                                        id: `OVu31kbGh`,
+                                        IMn0WxFMz: `Add Google Maps and location-based features.`,
+                                        layoutId: `OVu31kbGh`,
+                                        ps8egKa2j: `Google Maps Integration`,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                                o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    mExYMsC3z: {
+                                      width: `max((min(${
+                                        p?.width || `100vw`
+                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        5796.15 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        208,
+                                    },
+                                    yPVcpR5st: {
+                                      width: `max(min(${
+                                        p?.width || `100vw`
+                                      } - 32px, 1200px), 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        4087.4 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        520,
+                                    },
+                                  },
+                                  children: o(v, {
+                                    height: 80,
+                                    width: `max((min(${
+                                      p?.width || `100vw`
+                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    y:
+                                      (p?.y || 0) +
+                                      0 +
+                                      5976.15 +
+                                      0 +
+                                      0 +
+                                      0 +
+                                      130.4 +
+                                      0 +
+                                      208,
+                                    children: o(y, {
+                                      className: `framer-cyayjl-container`,
+                                      nodeId: `OVu31kbGh`,
+                                      scopeId: `dqkkaMW66`,
+                                      children: o(H, {
+                                        CuO7siNIx: `CreditCard`,
+                                        height: `100%`,
+                                        id: `OVu31kbGh`,
+                                        IMn0WxFMz: `Implement secure payments via gateways like Razorpay.`,
+                                        layoutId: `OVu31kbGh`,
+                                        ps8egKa2j: `Payment Gateway Integration`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
