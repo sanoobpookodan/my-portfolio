@@ -512,7 +512,7 @@ var V,
                       children: a(m.h5, {
                         className: `framer-styles-preset-1qig5z1`,
                         "data-styles-preset": `y5ezp3Fqp`,
-                        children: `SREERAG C 000099)))‸‸`,
+                        children: `SANOOB P`,
                       }),
                     }),
                     className: `framer-jz6h2f`,
@@ -2729,11 +2729,11 @@ var dt,
   });
 function Dt(e, t) {
   return {
-    description: `A passionate UI/UX Designer with 3+ years of experience turning ideas into intuitive digital products. I design interfaces that not only look great but solve real user problems — now ready for global opportunities.`,
+    description: `DDDDDDDDA passionate UI/UX Designer with 3+ years of experience turning ideas into intuitive digital products. I design interfaces that not only look great but solve real user problems — now ready for global opportunities.`,
     favicon: `https://framerusercontent.com/assets/9eLY8D1MhTVJJfROXqjn9Q4Eh4.png`,
     robots: `max-image-preview:large`,
     socialImage: `https://framerusercontent.com/assets/RvqGXBOkx3IKf9R1YuVNSrKzBY.png`,
-    title: `SREERAG C - UI UX DESIGNER `,
+    title: `DDDDD SREERAG C - UI UX DESIGNER 999000 `,
   };
 }
 var Ot = e(() => {});
