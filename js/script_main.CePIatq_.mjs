@@ -56,7 +56,7 @@ async function R({ routeId: e, pathVariables: r, localeId: i }) {
       localeId: i,
       locales: H,
       preserveQueryParams: void 0,
-      siteCanonicalURL: `https://sreerag.framer.website`,
+      siteCanonicalURL: `https://sanoobpookodan.github.io/my-portfolio`,
       EditorBar:
         _ === void 0
           ? void 0
