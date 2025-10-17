@@ -9800,7 +9800,7 @@
             return c;
         })()("data-framer-appear-id", "__Appear_Animation_Transform__", true);
     </script>
-    <script>
+    <!-- <script>
         (() => {
             function d(e) {
                 let t = Date.prototype.toLocaleString,
@@ -10010,7 +10010,7 @@
                 },
             },
         });
-    </script>
+    </script> -->
     <link rel="modulepreload" fetchpriority="low" href="./js/script_main.CePIatq_.mjs" />
     <script type="module" async data-framer-bundle="main" fetchpriority="low"
         src="./js/script_main.CePIatq_.mjs"></script>

@@ -1927,13 +1927,13 @@ var dt,
                                           style: {
                                             "--framer-text-color": `var(--extracted-as4nhg, var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184)))`,
                                           },
-                                          children: `ui ux designer  `,
+                                          children: `React Native developer`,
                                         }),
                                         a(m.span, {
                                           style: {
                                             "--framer-text-color": `var(--extracted-1nqvagd, rgb(237, 237, 2))`,
                                           },
-                                          children: `|`,
+                                          children: ``,
                                         }),
                                       ],
                                     }),
