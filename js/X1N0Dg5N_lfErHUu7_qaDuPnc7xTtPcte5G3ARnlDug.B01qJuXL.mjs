@@ -4465,7 +4465,7 @@ var Un,
                                           {
                                             pixelHeight: 3e3,
                                             pixelWidth: 4500,
-                                            src: `../images/mock_up/arafa/mock up main page.png`,
+                                            src: `../images/mock_up/arafa/mock_up_main_page.png`,
                                           },
                                           ``
                                         ),
