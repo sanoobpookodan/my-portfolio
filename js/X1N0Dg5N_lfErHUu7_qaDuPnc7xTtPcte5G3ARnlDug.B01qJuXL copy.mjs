@@ -3955,11 +3955,11 @@ var Un,
                             {
                               href: {
                                 pathVariables: {
-                                  cVobtGrRA: `my_town.html`,
+                                  cVobtGrRA: `world-s-first-ai-powered-scheduling-app`,
                                 },
                                 unresolvedPathSlugs: {
                                   cVobtGrRA: {
-                                    collectionId: ``,
+                                    collectionId: `HvA2icrab`,
                                     collectionItemId: `YGgoH1VST`,
                                   },
                                 },
@@ -3970,11 +3970,11 @@ var Un,
                             {
                               href: {
                                 pathVariables: {
-                                  cVobtGrRA: `my_town.html`,
+                                  cVobtGrRA: `world-s-first-ai-powered-scheduling-app`,
                                 },
                                 unresolvedPathSlugs: {
                                   cVobtGrRA: {
-                                    collectionId: ``,
+                                    collectionId: `HvA2icrab`,
                                     collectionItemId: `YGgoH1VST`,
                                   },
                                 },
@@ -3985,11 +3985,11 @@ var Un,
                             {
                               href: {
                                 pathVariables: {
-                                  cVobtGrRA: `my_town.html`,
+                                  cVobtGrRA: `world-s-first-ai-powered-scheduling-app`,
                                 },
                                 unresolvedPathSlugs: {
                                   cVobtGrRA: {
-                                    collectionId: ``,
+                                    collectionId: `HvA2icrab`,
                                     collectionItemId: `YGgoH1VST`,
                                   },
                                 },
@@ -4093,7 +4093,7 @@ var Un,
                                 },
                                 unresolvedPathSlugs: {
                                   cVobtGrRA: {
-                                    collectionId: ``,
+                                    collectionId: `HvA2icrab`,
                                     collectionItemId: `OkdruZ6lZ`,
                                   },
                                 },
@@ -4108,7 +4108,7 @@ var Un,
                                 },
                                 unresolvedPathSlugs: {
                                   cVobtGrRA: {
-                                    collectionId: ``,
+                                    collectionId: `HvA2icrab`,
                                     collectionItemId: `OkdruZ6lZ`,
                                   },
                                 },
@@ -4123,7 +4123,7 @@ var Un,
                                 },
                                 unresolvedPathSlugs: {
                                   cVobtGrRA: {
-                                    collectionId: ``,
+                                    collectionId: `HvA2icrab`,
                                     collectionItemId: `OkdruZ6lZ`,
                                   },
                                 },
