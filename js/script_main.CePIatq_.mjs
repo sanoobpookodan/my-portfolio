@@ -49,8 +49,9 @@ async function R({ routeId: e, pathVariables: r, localeId: i }) {
       routes: V,
       collectionUtils: U,
       framerSiteId: W,
-      notFoundPage: O(() =>
-        import(`./3f-nwWv_9WDMeYw0rzIrl665_AHFYM8jQq3lv2NzAkM.BHzH6JMX.mjs`)
+      notFoundPage: O(
+        () =>
+          import(`./3f-nwWv_9WDMeYw0rzIrl665_AHFYM8jQq3lv2NzAkM.BHzH6JMX.mjs`),
       ),
       isReducedMotion: !0,
       localeId: i,
@@ -63,11 +64,11 @@ async function R({ routeId: e, pathVariables: r, localeId: i }) {
           : (() => {
               let e =
                 /bot|-google|google-|yandex|ia_archiver|crawl|spider/iu.test(
-                  f.userAgent
+                  f.userAgent,
                 );
               if (e) {
                 console.log(
-                  `[Framer Editor Bar] Unavailable because navigator is bot`
+                  `[Framer Editor Bar] Unavailable because navigator is bot`,
                 );
                 return;
               }
@@ -139,7 +140,7 @@ async function R({ routeId: e, pathVariables: r, localeId: i }) {
         routes: {},
       },
     });
-  return await o, u;
+  return (await o, u);
 }
 function z() {
   G && _.__framer_events.push(arguments);
@@ -154,7 +155,7 @@ async function B(e, t) {
           `Recoverable error has happened. Please check any custom code or code overrides to fix server/client mismatches:
 `,
           e,
-          r
+          r,
         ),
         Math.random() > 0.01)
       )
@@ -164,7 +165,7 @@ async function B(e, t) {
         `Fatal crash has happened. If you are the author of this website, please report this issue to the Framer team via https://www.framer.community/:
 `,
         e,
-        r
+        r,
       );
     z(
       n ? `published_site_load_recoverable_error` : `published_site_load_error`,
@@ -174,24 +175,24 @@ async function B(e, t) {
         stack: r
           ? void 0
           : e instanceof Error && typeof e.stack == `string`
-          ? e.stack
-          : null,
-      }
+            ? e.stack
+            : null,
+      },
     );
   }
   try {
     let r, i, a, c;
     if (e) {
       let e = JSON.parse(t.dataset.framerHydrateV2);
-      (r = e.routeId),
+      ((r = e.routeId),
         (i = e.localeId),
         (a = e.pathVariables),
         (c = e.breakpoints),
-        (r = A(V, r));
+        (r = A(V, r)));
     } else {
       A(V, void 0);
       let e = T(V, decodeURIComponent(location.pathname), !0, H);
-      (r = e.routeId), (i = e.localeId), (a = e.pathVariables);
+      ((r = e.routeId), (i = e.localeId), (a = e.pathVariables));
     }
     let l = R({ routeId: r, localeId: i, pathVariables: a });
     _ !== void 0 &&
@@ -209,7 +210,7 @@ async function B(e, t) {
         let o = Intl.DateTimeFormat().resolvedOptions(),
           s = o.timeZone,
           c = o.locale;
-        await new Promise((e) => {
+        (await new Promise((e) => {
           document.prerendering
             ? document.addEventListener(`prerenderingchange`, e, { once: !0 })
             : e();
@@ -243,17 +244,17 @@ async function B(e, t) {
           document.dispatchEvent(
             new CustomEvent(`framer:pageview`, {
               detail: { framerLocale: t || null },
-            })
-          );
+            }),
+          ));
       })();
     let u = await l;
     if (e) {
       I(`framer-rewrite-breakpoints`, () => {
-        j(c), _.__framer_onRewriteBreakpoints?.(c);
+        (j(c), _.__framer_onRewriteBreakpoints?.(c));
       });
       let e = o;
       e(() => {
-        k(), M(), s(t, u, { onRecoverableError: n });
+        (k(), M(), s(t, u, { onRecoverableError: n }));
       });
     } else m(t, { onRecoverableError: n }).render(u);
   } catch (e) {
@@ -267,7 +268,7 @@ var V,
   G,
   K,
   q = e(() => {
-    d(),
+    (d(),
       E(),
       l(),
       u(),
@@ -282,29 +283,41 @@ var V,
             swq3kdRwG: `skills`,
             TOkUr23gG: `work`,
           },
-          page: O(() =>
-            import(`./X1N0Dg5N_lfErHUu7_qaDuPnc7xTtPcte5G3ARnlDug.B01qJuXL.mjs`)
+          page: O(
+            () =>
+              import(
+                `./X1N0Dg5N_lfErHUu7_qaDuPnc7xTtPcte5G3ARnlDug.B01qJuXL.mjs`
+              ),
           ),
           path: `/`,
         },
         skCBjGGGU: {
           elements: { M43i4lPhT: `hero` },
-          page: O(() =>
-            import(`./wB2K2la40CVA3zQofTDH1THQi_EU5Z1G6J44bbp9SCo.l5w2LWva.mjs`)
+          page: O(
+            () =>
+              import(
+                `./wB2K2la40CVA3zQofTDH1THQi_EU5Z1G6J44bbp9SCo.l5w2LWva.mjs`
+              ),
           ),
           path: `/contact`,
         },
         iIUPKXiyu: {
           elements: { M73GQPbLh: `blog` },
-          page: O(() =>
-            import(`./rQATNiswutWt995HERESkwzfpierxqCY9DozwlYwll4.ZJ4gkSZF.mjs`)
+          page: O(
+            () =>
+              import(
+                `./rQATNiswutWt995HERESkwzfpierxqCY9DozwlYwll4.ZJ4gkSZF.mjs`
+              ),
           ),
           path: `/blog`,
         },
         njVMqEuvH: {
           elements: { Y1dk38IbD: `hero` },
-          page: O(() =>
-            import(`./3f-nwWv_9WDMeYw0rzIrl665_AHFYM8jQq3lv2NzAkM.BHzH6JMX.mjs`)
+          page: O(
+            () =>
+              import(
+                `./3f-nwWv_9WDMeYw0rzIrl665_AHFYM8jQq3lv2NzAkM.BHzH6JMX.mjs`
+              ),
           ),
           path: `/404`,
         },
@@ -317,16 +330,22 @@ var V,
             oF97DuYQu: `intro`,
             rVmCTjUAS: `process`,
           },
-          page: O(() =>
-            import(`./xOsUVUuSgzSQKBsfyruRTXO1oDT9JXpywmzMG5-hlw8.BljmMh79.mjs`)
+          page: O(
+            () =>
+              import(
+                `./xOsUVUuSgzSQKBsfyruRTXO1oDT9JXpywmzMG5-hlw8.BljmMh79.mjs`
+              ),
           ),
           path: `/case-studies/:cVobtGrRA`,
         },
         R7Bcv2Axj: {
           collectionId: `etS8waHTr`,
           elements: { V9p0JZCVM: `blog` },
-          page: O(() =>
-            import(`./osMDOYuMDOlpQzPAyFG1bsemU7ikDzd8ffPJq2-TnLY.oSn6tq3u.mjs`)
+          page: O(
+            () =>
+              import(
+                `./osMDOYuMDOlpQzPAyFG1bsemU7ikDzd8ffPJq2-TnLY.oSn6tq3u.mjs`
+              ),
           ),
           path: `/blog/:RooMAy2it`,
         },
@@ -370,10 +389,10 @@ var V,
           o(() => {
             s(
               document.getElementById(`__framer-badge-container`),
-              t(i, {}, t(r(() => import(`./PX9hIOIVM.CaM8E9cg.mjs`))))
+              t(i, {}, t(r(() => import(`./PX9hIOIVM.CaM8E9cg.mjs`)))),
             );
           });
-      })();
+      })());
   });
 q();
 export { R as getPageRoot };

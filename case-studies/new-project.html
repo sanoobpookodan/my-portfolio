@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UI/UX Design for Luxury Car Website - SANOOB P</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --dark-bg: rgb(11, 11, 11);
+            --neon-green: rgb(221, 255, 0);
+            --white: rgb(255, 255, 255);
+            --gray: rgb(184, 184, 184);
+            --dark-gray: rgb(71, 71, 71);
+            --darker-gray: rgb(36, 36, 36);
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
+            background-color: var(--dark-bg);
+            color: var(--white);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Left Navigation Bar */
+        .left-nav {
+            position: fixed;
+            left: 0;
+            top: 0;
+            height: 100vh;
+            width: 120px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            padding: 40px 20px;
+            z-index: 1000;
+            border-right: 1px solid rgba(221, 255, 0, 0.1);
+        }
+
+        .nav-links {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .nav-links a {
+            color: var(--gray);
+            text-decoration: none;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: color 0.3s ease;
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            transform: rotate(180deg);
+        }
+
+        .nav-links a:hover,
+        .nav-links a.active {
+            color: var(--neon-green);
+        }
+
+        .get-in-touch-btn {
+            border: 1px solid var(--neon-green);
+            color: var(--neon-green);
+            background: transparent;
+            padding: 12px 20px;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            transform: rotate(180deg);
+        }
+
+        .get-in-touch-btn:hover {
+            background: var(--neon-green);
+            color: var(--dark-bg);
+        }
+
+        /* Main Content */
+        .main-content {
+            margin-left: 120px;
+            padding: 60px 80px;
+            max-width: 1400px;
+        }
+
+        /* Header */
+        .header {
+            margin-bottom: 60px;
+        }
+
+        .header-name {
+            font-size: 14px;
+            color: var(--gray);
+            margin-bottom: 20px;
+            font-weight: 600;
+            letter-spacing: 2px;
+        }
+
+        .project-tag {
+            color: var(--neon-green);
+            font-size: 14px;
+            font-weight: 600;
+            letter-spacing: 1px;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+        }
+
+        .project-title {
+            font-size: 72px;
+            font-weight: 800;
+            line-height: 1.1;
+            margin-bottom: 40px;
+            letter-spacing: -2px;
+        }
+
+        /* Project Details */
+        .project-details {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 40px;
+            margin-bottom: 60px;
+            padding-bottom: 40px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .detail-item {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .detail-label {
+            font-size: 11px;
+            color: var(--gray);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: 600;
+        }
+
+        .detail-value {
+            font-size: 16px;
+            color: var(--white);
+            font-weight: 600;
+        }
+
+        /* Hero Image Section */
+        .hero-image {
+            margin-bottom: 120px;
+            position: relative;
+        }
+
+        .hero-image img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+        }
+
+        /* Content Sections */
+        .content-section {
+            margin-bottom: 120px;
+            scroll-margin-top: 60px;
+        }
+
+        .section-title {
+            font-size: 64px;
+            font-weight: 800;
+            margin-bottom: 40px;
+            letter-spacing: -1px;
+        }
+
+        .section-content {
+            font-size: 18px;
+            line-height: 1.8;
+            color: var(--gray);
+            max-width: 900px;
+        }
+
+        .section-content p {
+            margin-bottom: 30px;
+        }
+
+        .subsection {
+            margin-top: 40px;
+        }
+
+        .subsection-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--white);
+            margin-bottom: 16px;
+        }
+
+        .subsection-content {
+            font-size: 18px;
+            line-height: 1.8;
+            color: var(--gray);
+        }
+
+        /* Image Carousel */
+        .image-carousel {
+            margin-top: 60px;
+            position: relative;
+        }
+
+        .carousel-container {
+            display: flex;
+            overflow-x: auto;
+            gap: 30px;
+            scroll-snap-type: x mandatory;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+
+        .carousel-container::-webkit-scrollbar {
+            display: none;
+        }
+
+        .carousel-item {
+            min-width: 100%;
+            scroll-snap-align: start;
+        }
+
+        .carousel-item img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .carousel-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(11, 11, 11, 0.8);
+            border: 1px solid var(--neon-green);
+            color: var(--neon-green);
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .carousel-nav:hover {
+            background: var(--neon-green);
+            color: var(--dark-bg);
+        }
+
+        .carousel-nav.prev {
+            left: 20px;
+        }
+
+        .carousel-nav.next {
+            right: 20px;
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 120px;
+            padding-top: 80px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .footer-name {
+            font-size: 48px;
+            font-weight: 800;
+            margin-bottom: 12px;
+        }
+
+        .footer-title {
+            font-size: 14px;
+            color: var(--gray);
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            margin-bottom: 60px;
+        }
+
+        .footer-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 60px;
+            margin-bottom: 60px;
+        }
+
+        .footer-column h3 {
+            font-size: 12px;
+            color: var(--gray);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 24px;
+            font-weight: 600;
+        }
+
+        .footer-column ul {
+            list-style: none;
+        }
+
+        .footer-column ul li {
+            margin-bottom: 16px;
+        }
+
+        .footer-column ul li a {
+            color: var(--white);
+            text-decoration: none;
+            font-size: 16px;
+            transition: color 0.3s ease;
+        }
+
+        .footer-column ul li a:hover {
+            color: var(--neon-green);
+        }
+
+        .footer-legal {
+            display: flex;
+            gap: 30px;
+            justify-content: flex-end;
+            padding-top: 40px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .footer-legal a {
+            color: var(--gray);
+            text-decoration: none;
+            font-size: 12px;
+            transition: color 0.3s ease;
+        }
+
+        .footer-legal a:hover {
+            color: var(--white);
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .main-content {
+                padding: 60px 40px;
+            }
+
+            .project-title {
+                font-size: 48px;
+            }
+
+            .section-title {
+                font-size: 48px;
+            }
+
+            .project-details {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .footer-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .left-nav {
+                width: 80px;
+                padding: 20px 10px;
+            }
+
+            .main-content {
+                margin-left: 80px;
+                padding: 40px 20px;
+            }
+
+            .project-title {
+                font-size: 36px;
+            }
+
+            .section-title {
+                font-size: 36px;
+            }
+
+            .project-details {
+                grid-template-columns: 1fr;
+            }
+
+            .footer-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Smooth Scroll */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Left Navigation -->
+    <nav class="left-nav">
+        <div class="nav-links">
+            <a href="#overview" class="active">Overview</a>
+            <a href="#description">Description</a>
+            <a href="#process">Process</a>
+            <a href="#solution">Solution</a>
+            <a href="#results">Results</a>
+        </div>
+        <button class="get-in-touch-btn">Get in touch</button>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Header Section -->
+        <header class="header">
+            <div class="header-name">SANOOB P</div>
+            <div class="project-tag">LUXURY REIMAGINED ONLINE - VISIT LIVE SITE</div>
+            <h1 class="project-title">UI/UX Design for Luxury Car Website</h1>
+            <div class="project-details">
+                <div class="detail-item">
+                    <span class="detail-label">Company</span>
+                    <span class="detail-value">BRD Luxe</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Role</span>
+                    <span class="detail-value">UI/UX Designer</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Expertise</span>
+                    <span class="detail-value">Web Experience Strategy</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">Year</span>
+                    <span class="detail-value">2025</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Hero Image -->
+        <div class="hero-image">
+            <img src="https://via.placeholder.com/1200x700/1a1a1a/ddff00?text=Luxury+Car+Website+Mockup" alt="Luxury Car Website Hero">
+        </div>
+
+        <!-- Overview Section -->
+        <section id="overview" class="content-section">
+            <h2 class="section-title">Overview</h2>
+            <div class="section-content">
+                <p>This project showcases a comprehensive UI/UX redesign for a luxury car dealership, focusing on creating an immersive digital experience that mirrors the premium nature of the brand.</p>
+            </div>
+        </section>
+
+        <!-- Description Section -->
+        <section id="description" class="content-section">
+            <h2 class="section-title">Project description</h2>
+            <div class="section-content">
+                <p>BRD Luxe is a premier luxury car dealership seeking to establish a strong digital presence that reflects their commitment to excellence and sophistication. The goal was to create a website that not only showcases their premium inventory but also provides an effortless browsing experience for potential buyers.</p>
+                
+                <div class="subsection">
+                    <h3 class="subsection-title">Challenge</h3>
+                    <p class="subsection-content">The brand lacked a strong online presence, making it difficult for potential customers to explore their luxury vehicle collection. The previous website failed to convey the premium experience customers expect when purchasing high-end vehicles.</p>
+                </div>
+
+                <div class="subsection">
+                    <h3 class="subsection-title">Ways of Working</h3>
+                    <p class="subsection-content">We collaborated closely with the BRD Luxe team to define the digital tone, user experience, luxury design aesthetics, and lead conversion strategies. The process involved extensive research into luxury brand expectations and buyer behavior in the high-end automotive market.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Process Section -->
+        <section id="process" class="content-section">
+            <h2 class="section-title">Process</h2>
+            <div class="section-content">
+                <p>From initial research to launching a fully responsive website, we followed a comprehensive design process that prioritized user needs and brand excellence.</p>
+                
+                <div class="subsection">
+                    <h3 class="subsection-title">Research & Planning</h3>
+                    <p class="subsection-content">We identified key buyer expectations including trust, detailed information, and visual sophistication. Through user interviews and competitor analysis, we understood what luxury car buyers value most in an online experience.</p>
+                </div>
+
+                <div class="subsection">
+                    <h3 class="subsection-title">Design & Prototyping</h3>
+                    <p class="subsection-content">We designed a visually striking yet minimal UI that puts the vehicles front and center. Every interaction was carefully crafted to feel premium and effortless, using high-quality imagery and intuitive navigation patterns.</p>
+                </div>
+
+                <div class="subsection">
+                    <h3 class="subsection-title">Development & Integration</h3>
+                    <p class="subsection-content">The website was built using Framer with seamless contact forms, WhatsApp integration for instant communication, and future-ready inventory modules that can easily scale as the collection grows.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Solution Section -->
+        <section id="solution" class="content-section">
+            <h2 class="section-title">Solution</h2>
+            <div class="section-content">
+                <p>A responsive, polished website that delivers a premium browsing experience while making it easy for potential buyers to connect with the dealership.</p>
+                
+                <div class="subsection">
+                    <h3 class="subsection-title">Premium Inventory Showcase</h3>
+                    <p class="subsection-content">High-quality imagery, comparison options, and detailed specifications help customers make informed decisions. Each vehicle is presented with the care and attention it deserves.</p>
+                </div>
+
+                <div class="subsection">
+                    <h3 class="subsection-title">Intuitive Browsing</h3>
+                    <p class="subsection-content">Smart filtering and category-wise listings make it easy to find exactly what you're looking for, whether browsing by brand, price range, or vehicle type.</p>
+                </div>
+
+                <div class="subsection">
+                    <h3 class="subsection-title">Fast Connect</h3>
+                    <p class="subsection-content">Quick inquiry buttons and mobile-optimized layout ensure potential buyers can reach out instantly, whether they're on desktop or mobile devices.</p>
+                </div>
+            </div>
+
+            <!-- Image Carousel -->
+            <div class="image-carousel">
+                <div class="carousel-nav prev" onclick="carouselPrev()">‹</div>
+                <div class="carousel-container" id="carousel">
+                    <div class="carousel-item">
+                        <img src="https://via.placeholder.com/1200x700/1a1a1a/ddff00?text=Our+Car+Collection" alt="Car Collection">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="https://via.placeholder.com/1200x700/1a1a1a/ddff00?text=Vehicle+Details" alt="Vehicle Details">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="https://via.placeholder.com/1200x700/1a1a1a/ddff00?text=Contact+Form" alt="Contact Form">
+                    </div>
+                </div>
+                <div class="carousel-nav next" onclick="carouselNext()">›</div>
+            </div>
+        </section>
+
+        <!-- Results Section -->
+        <section id="results" class="content-section">
+            <h2 class="section-title">Results</h2>
+            <div class="section-content">
+                <p>The new website has successfully elevated the brand's digital presence and increased qualified leads, establishing BRD Luxe as a leader in online luxury car sales.</p>
+                
+                <div class="subsection">
+                    <h3 class="subsection-title">Improved Engagement</h3>
+                    <p class="subsection-content">Time spent on site increased by 35%, indicating that visitors are genuinely interested in exploring the collection and engaging with the content.</p>
+                </div>
+
+                <div class="subsection">
+                    <h3 class="subsection-title">Lead Conversion</h3>
+                    <p class="subsection-content">The redesigned inquiry process led to a 20% increase in lead submissions, making it easier for potential buyers to express interest and connect with the sales team.</p>
+                </div>
+
+                <div class="subsection">
+                    <h3 class="subsection-title">Brand Alignment</h3>
+                    <p class="subsection-content">The website now accurately reflects the premium nature of BRD Luxe's offerings, creating a cohesive brand experience from first visit to purchase.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-name">SANOOB P</div>
+            <div class="footer-title">React Native Developer</div>
+            
+            <div class="footer-grid">
+                <div class="footer-column">
+                    <h3>Navigation</h3>
+                    <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-column">
+                    <h3>Case Studies</h3>
+                    <ul>
+                        <li><a href="#">Choose My Fresh App</a></li>
+                        <li><a href="alhadi.html">Al Hadi Website</a></li>
+                        <li><a href="brdluxe">BRD Luxe Website</a></li>
+                        <li><a href="#">Arayal Resorts</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-column">
+                    <h3>Social Media</h3>
+                    <ul>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">WhatsApp</a></li>
+                        <li><a href="#">Threads</a></li>
+                        <li><a href="#">LinkedIn</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="footer-legal">
+                <a href="#">Privacy Policy</a>
+                <a href="#">Cookies</a>
+                <a href="#">Terms & Conditions</a>
+            </div>
+        </footer>
+    </main>
+
+    <script>
+        // Smooth scroll for navigation links
+        document.querySelectorAll('.nav-links a').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                    
+                    // Update active state
+                    document.querySelectorAll('.nav-links a').forEach(link => {
+                        link.classList.remove('active');
+                    });
+                    this.classList.add('active');
+                }
+            });
+        });
+
+        // Update active nav on scroll
+        const sections = document.querySelectorAll('.content-section');
+        const navLinks = document.querySelectorAll('.nav-links a');
+
+        window.addEventListener('scroll', () => {
+            let current = '';
+            sections.forEach(section => {
+                const sectionTop = section.offsetTop;
+                const sectionHeight = section.clientHeight;
+                if (pageYOffset >= sectionTop - 200) {
+                    current = section.getAttribute('id');
+                }
+            });
+
+            navLinks.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === '#' + current) {
+                    link.classList.add('active');
+                }
+            });
+        });
+
+        // Carousel functionality
+        let currentSlide = 0;
+        const carousel = document.getElementById('carousel');
+        const items = carousel.querySelectorAll('.carousel-item');
+        const totalSlides = items.length;
+
+        function carouselNext() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            updateCarousel();
+        }
+
+        function carouselPrev() {
+            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            updateCarousel();
+        }
+
+        function updateCarousel() {
+            const offset = -currentSlide * 100;
+            carousel.style.transform = `translateX(${offset}%)`;
+        }
+
+        // Get in touch button functionality
+        document.querySelectorAll('.get-in-touch-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                // You can add your contact functionality here
+                alert('Get in touch clicked!');
+            });
+        });
+    </script>
+</body>
+
+</html>

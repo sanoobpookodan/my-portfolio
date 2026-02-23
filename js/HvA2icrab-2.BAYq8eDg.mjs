@@ -45,7 +45,7 @@ var u,
   V,
   H,
   U = e(() => {
-    t(),
+    (t(),
       l(),
       o(),
       n(),
@@ -385,7 +385,7 @@ var u,
         children: [
           r(`h2`, { children: `Project description` }),
           r(`p`, {
-            children: `Arayal Resorts is a luxury eco-resort nestled in the heart of Wayanad, Kerala. They offer a tranquil escape with nature-rich surroundings and high-end amenities. The resort needed a website that reflected its serene identity and made online bookings effortless for travelers.`,
+            children: `Arayal Resortssasasas is a luxury eco-resort nestled in the heart of Wayanad, Kerala. They offer a tranquil escape with nature-rich surroundings and high-end amenities. The resort needed a website that reflected its serene identity and made online bookings effortless for travelers.`,
           }),
         ],
       })),
@@ -623,7 +623,7 @@ var u,
           },
           __FramerMetadata__: { type: `variable` },
         },
-      });
+      }));
   });
 U();
 export {
