@@ -4486,6 +4486,140 @@ var Un,
                               }),
                             }),
                         }),
+                        o(w, {
+                          links: [
+                            {
+                              href: {
+                                pathVariables: {
+                                  cVobtGrRA: `innovative-booking-platform`,
+                                },
+                                unresolvedPathSlugs: {
+                                  cVobtGrRA: {
+                                    collectionId: `HvA2icrab`,
+                                    collectionItemId: `TPvrtZQSO`,
+                                  },
+                                },
+                                webPageId: `o7Lhg86HO`,
+                              },
+                              implicitPathVariables: void 0,
+                            },
+                            {
+                              href: {
+                                pathVariables: {
+                                  cVobtGrRA: `innovative-booking-platform`,
+                                },
+                                unresolvedPathSlugs: {
+                                  cVobtGrRA: {
+                                    collectionId: `HvA2icrab`,
+                                    collectionItemId: `TPvrtZQSO`,
+                                  },
+                                },
+                                webPageId: `o7Lhg86HO`,
+                              },
+                              implicitPathVariables: void 0,
+                            },
+                            {
+                              href: {
+                                pathVariables: {
+                                  cVobtGrRA: `innovative-booking-platform`,
+                                },
+                                unresolvedPathSlugs: {
+                                  cVobtGrRA: {
+                                    collectionId: `HvA2icrab`,
+                                    collectionItemId: `TPvrtZQSO`,
+                                  },
+                                },
+                                webPageId: `o7Lhg86HO`,
+                              },
+                              implicitPathVariables: void 0,
+                            },
+                          ],
+                          children: (e) =>
+                            o(C, {
+                              breakpoint: E,
+                              overrides: {
+                                mExYMsC3z: {
+                                  width: `calc(min(${
+                                    p?.width || `100vw`
+                                  } - 80px, 1200px) * 1.06)`,
+                                  y: (p?.y || 0) + 0 + 758.75 + 0 + 3120,
+                                },
+                                yPVcpR5st: {
+                                  height: 640,
+                                  width: `min(${
+                                    p?.width || `100vw`
+                                  } - 32px, 1200px)`,
+                                  y: (p?.y || 0) + 0 + 298 + 0 + 2112,
+                                },
+                              },
+                              children: o(v, {
+                                height: 800,
+                                width: `calc((min(${
+                                  p?.width || `100vw`
+                                } - 280px, 1200px) - 80px) * 1.06)`,
+                                y: (p?.y || 0) + 0 + 818.75 + 0 + 3120,
+                                children: o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    yPVcpR5st: {
+                                      __framer__animate: { transition: Q },
+                                      __framer__enter: Z,
+                                      __framer__exit: $,
+                                    },
+                                  },
+                                  children: o(fr, {
+                                    __framer__animate: { transition: Y },
+                                    __framer__animateOnce: !1,
+                                    __framer__enter: zr,
+                                    __framer__exit: Br,
+                                    __framer__styleAppearEffectEnabled: !0,
+                                    __framer__threshold: 0.5,
+                                    __perspectiveFX: !1,
+                                    __targetOpacity: 1,
+                                    className: `framer-1hvmey5-container`,
+                                    nodeId: `G7dXVRs8P`,
+                                    rendersWithMotion: !0,
+                                    scopeId: `dqkkaMW66`,
+                                    children: o(C, {
+                                      breakpoint: E,
+                                      overrides: {
+                                        mExYMsC3z: { hz_kOG1gC: e[1] },
+                                        yPVcpR5st: {
+                                          hz_kOG1gC: e[2],
+                                          style: { width: `100%` },
+                                          variant: `vZAJqdZw4`,
+                                        },
+                                      },
+                                      children: o(q, {
+                                        GnlXA8klI: `A mobile application designed to manage educational resources and student information efficiently.`,
+                                        height: `100%`,
+                                        hz_kOG1gC: e[0],
+                                        id: `G7dXVRs8P`,
+                                        is_FsKXl9: X(
+                                          {
+                                            pixelHeight: 3e3,
+                                            pixelWidth: 4500,
+                                            src: `./images/mock_up/edulink/edulink_cover2.png`,
+                                          },
+                                          ``,
+                                        ),
+                                        k_atTtS3d: `Edulink`,
+                                        layoutId: `G7dXVRs8P`,
+                                        qmg8PgYYO: `2025`,
+                                        style: {
+                                          height: `100%`,
+                                          width: `100%`,
+                                        },
+                                        uXcHu2Q7I: `Edulink Mobile Application`,
+                                        variant: `aKkeFyeFQ`,
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                              }),
+                            }),
+                        }),
                       ],
                     }),
                     u(`section`, {
