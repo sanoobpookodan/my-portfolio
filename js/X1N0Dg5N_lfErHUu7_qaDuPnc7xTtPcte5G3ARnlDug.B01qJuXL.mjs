@@ -4829,7 +4829,7 @@ var Un,
                                     E1UtJgCj1: `Led development of multiple mobile applications using React Native CLI. Integrated REST APIs and Razorpay payment gateways for seamless transactions. Implemented animations and reusable components to improve performance and maintainability. Collaborated with backend teams to optimize app speed and functionality, ensuring high-quality delivery.`,
                                     height: `100%`,
                                     id: `a9FzfTtzj`,
-                                    JXpDc87xl: `Aurin IT Consultancy LLC - UAE (Remote)`,
+                                    JXpDc87xl: `Aurin IT Consultancy LLC - Calicut`,
                                     layoutId: `a9FzfTtzj`,
                                     style: { width: `100%` },
                                     uQIQpMBWo: X(
