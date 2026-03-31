@@ -1206,34 +1206,34 @@ var He,
                       },
                     }),
                     te() &&
-                      a(h, {
-                        children: a(b, {
-                          className: `framer-1ns2lzf-container`,
-                          isAuthoredByUser: !0,
-                          isModuleExternal: !0,
-                          layoutDependency: I,
-                          layoutId: `J85Ulg762-container`,
-                          nodeId: `J85Ulg762`,
-                          rendersWithMotion: !0,
-                          scopeId: `kJYLTxD7F`,
-                          children: a(q, {
-                            blur: 5,
-                            borderRadius: `0px`,
-                            direction: `to bottom`,
-                            height: `100%`,
-                            id: `J85Ulg762`,
-                            layoutId: `J85Ulg762`,
-                            style: { height: `100%`, width: `100%` },
-                            transition: {
-                              delay: 0,
-                              duration: 0.3,
-                              ease: [0.44, 0, 0.56, 1],
-                              type: `tween`,
-                            },
-                            width: `100%`,
-                          }),
+                    a(h, {
+                      children: a(b, {
+                        className: `framer-1ns2lzf-container`,
+                        isAuthoredByUser: !0,
+                        isModuleExternal: !0,
+                        layoutDependency: I,
+                        layoutId: `J85Ulg762-container`,
+                        nodeId: `J85Ulg762`,
+                        rendersWithMotion: !0,
+                        scopeId: `kJYLTxD7F`,
+                        children: a(q, {
+                          blur: 5,
+                          borderRadius: `0px`,
+                          direction: `to bottom`,
+                          height: `100%`,
+                          id: `J85Ulg762`,
+                          layoutId: `J85Ulg762`,
+                          style: { height: `100%`, width: `100%` },
+                          transition: {
+                            delay: 0,
+                            duration: 0.3,
+                            ease: [0.44, 0, 0.56, 1],
+                            type: `tween`,
+                          },
+                          width: `100%`,
                         }),
                       }),
+                    }),
                     a(h, {
                       height: 21,
                       y: (f?.y || 0) + 30,
@@ -1284,287 +1284,287 @@ var He,
                       ],
                     }),
                     ne() &&
-                      l(m.div, {
-                        className: `framer-1kn5j4t`,
-                        "data-framer-name": `NavigationBar`,
-                        layoutDependency: I,
-                        layoutId: `r7QhjgDqM`,
-                        children: [
-                          a(v, {
-                            links: [
-                              {
-                                href: {
-                                  hash: `:nTBfj6C59`,
-                                  webPageId: `dqkkaMW66`,
-                                },
-                                implicitPathVariables: void 0,
+                    l(m.div, {
+                      className: `framer-1kn5j4t`,
+                      "data-framer-name": `NavigationBar`,
+                      layoutDependency: I,
+                      layoutId: `r7QhjgDqM`,
+                      children: [
+                        a(v, {
+                          links: [
+                            {
+                              href: {
+                                hash: `:nTBfj6C59`,
+                                webPageId: `dqkkaMW66`,
                               },
-                              {
-                                href: {
-                                  hash: `:nTBfj6C59`,
-                                  webPageId: `dqkkaMW66`,
-                                },
-                                implicitPathVariables: void 0,
+                              implicitPathVariables: void 0,
+                            },
+                            {
+                              href: {
+                                hash: `:nTBfj6C59`,
+                                webPageId: `dqkkaMW66`,
                               },
-                            ],
-                            children: (e) =>
-                              a(h, {
-                                height: 21,
-                                ...Y(
-                                  {
-                                    F3MZPXXKZ: { y: (f?.y || 0) + 91 + 0 + 0 },
-                                  },
-                                  S,
-                                  D
-                                ),
-                                children: a(b, {
-                                  className: `framer-n6wd88-container`,
-                                  layoutDependency: I,
-                                  layoutId: `LHqTmxrpG-container`,
-                                  nodeId: `LHqTmxrpG`,
-                                  rendersWithMotion: !0,
-                                  scopeId: `kJYLTxD7F`,
-                                  children: a(X, {
-                                    __framer__animateOnce: !1,
-                                    __framer__threshold: 0.5,
-                                    __framer__variantAppearEffectEnabled: !0,
-                                    aqR4frobj: `Intro`,
-                                    dWfIQ61kM: e[0],
-                                    height: `100%`,
-                                    id: `LHqTmxrpG`,
-                                    layoutId: `LHqTmxrpG`,
-                                    LjYHBIhA6: V,
-                                    variant: `MKQWM9WYD`,
-                                    width: `100%`,
-                                    ...Y(
-                                      { F3MZPXXKZ: { dWfIQ61kM: e[1] } },
-                                      S,
-                                      D
-                                    ),
-                                  }),
+                              implicitPathVariables: void 0,
+                            },
+                          ],
+                          children: (e) =>
+                            a(h, {
+                              height: 21,
+                              ...Y(
+                                {
+                                  F3MZPXXKZ: { y: (f?.y || 0) + 91 + 0 + 0 },
+                                },
+                                S,
+                                D
+                              ),
+                              children: a(b, {
+                                className: `framer-n6wd88-container`,
+                                layoutDependency: I,
+                                layoutId: `LHqTmxrpG-container`,
+                                nodeId: `LHqTmxrpG`,
+                                rendersWithMotion: !0,
+                                scopeId: `kJYLTxD7F`,
+                                children: a(X, {
+                                  __framer__animateOnce: !1,
+                                  __framer__threshold: 0.5,
+                                  __framer__variantAppearEffectEnabled: !0,
+                                  aqR4frobj: `Intro`,
+                                  dWfIQ61kM: e[0],
+                                  height: `100%`,
+                                  id: `LHqTmxrpG`,
+                                  layoutId: `LHqTmxrpG`,
+                                  LjYHBIhA6: V,
+                                  variant: `MKQWM9WYD`,
+                                  width: `100%`,
+                                  ...Y(
+                                    { F3MZPXXKZ: { dWfIQ61kM: e[1] } },
+                                    S,
+                                    D
+                                  ),
                                 }),
                               }),
-                          }),
-                          a(v, {
-                            links: [
-                              {
-                                href: {
-                                  hash: `:TOkUr23gG`,
-                                  webPageId: `dqkkaMW66`,
-                                },
-                                implicitPathVariables: void 0,
+                            }),
+                        }),
+                        a(v, {
+                          links: [
+                            {
+                              href: {
+                                hash: `:TOkUr23gG`,
+                                webPageId: `dqkkaMW66`,
                               },
-                              {
-                                href: {
-                                  hash: `:TOkUr23gG`,
-                                  webPageId: `dqkkaMW66`,
-                                },
-                                implicitPathVariables: void 0,
+                              implicitPathVariables: void 0,
+                            },
+                            {
+                              href: {
+                                hash: `:TOkUr23gG`,
+                                webPageId: `dqkkaMW66`,
                               },
-                            ],
-                            children: (e) =>
-                              a(h, {
-                                height: 21,
-                                ...Y(
-                                  {
-                                    F3MZPXXKZ: { y: (f?.y || 0) + 91 + 0 + 45 },
-                                  },
-                                  S,
-                                  D
-                                ),
-                                children: a(b, {
-                                  className: `framer-kpmxgq-container`,
-                                  layoutDependency: I,
-                                  layoutId: `VkZptueIm-container`,
-                                  nodeId: `VkZptueIm`,
-                                  rendersWithMotion: !0,
-                                  scopeId: `kJYLTxD7F`,
-                                  children: a(X, {
-                                    __framer__animateOnce: !1,
-                                    __framer__threshold: 0.5,
-                                    __framer__variantAppearEffectEnabled: !0,
-                                    aqR4frobj: `Work`,
-                                    dWfIQ61kM: e[0],
-                                    height: `100%`,
-                                    id: `VkZptueIm`,
-                                    layoutId: `VkZptueIm`,
-                                    LjYHBIhA6: V,
-                                    variant: `MKQWM9WYD`,
-                                    width: `100%`,
-                                    ...Y(
-                                      { F3MZPXXKZ: { dWfIQ61kM: e[1] } },
-                                      S,
-                                      D
-                                    ),
-                                  }),
+                              implicitPathVariables: void 0,
+                            },
+                          ],
+                          children: (e) =>
+                            a(h, {
+                              height: 21,
+                              ...Y(
+                                {
+                                  F3MZPXXKZ: { y: (f?.y || 0) + 91 + 0 + 45 },
+                                },
+                                S,
+                                D
+                              ),
+                              children: a(b, {
+                                className: `framer-kpmxgq-container`,
+                                layoutDependency: I,
+                                layoutId: `VkZptueIm-container`,
+                                nodeId: `VkZptueIm`,
+                                rendersWithMotion: !0,
+                                scopeId: `kJYLTxD7F`,
+                                children: a(X, {
+                                  __framer__animateOnce: !1,
+                                  __framer__threshold: 0.5,
+                                  __framer__variantAppearEffectEnabled: !0,
+                                  aqR4frobj: `Work`,
+                                  dWfIQ61kM: e[0],
+                                  height: `100%`,
+                                  id: `VkZptueIm`,
+                                  layoutId: `VkZptueIm`,
+                                  LjYHBIhA6: V,
+                                  variant: `MKQWM9WYD`,
+                                  width: `100%`,
+                                  ...Y(
+                                    { F3MZPXXKZ: { dWfIQ61kM: e[1] } },
+                                    S,
+                                    D
+                                  ),
                                 }),
                               }),
-                          }),
-                          a(v, {
-                            links: [
-                              {
-                                href: {
-                                  hash: `:Cyd4W2QVH`,
-                                  webPageId: `dqkkaMW66`,
-                                },
-                                implicitPathVariables: void 0,
+                            }),
+                        }),
+                        a(v, {
+                          links: [
+                            {
+                              href: {
+                                hash: `:Cyd4W2QVH`,
+                                webPageId: `dqkkaMW66`,
                               },
-                              {
-                                href: {
-                                  hash: `:Cyd4W2QVH`,
-                                  webPageId: `dqkkaMW66`,
-                                },
-                                implicitPathVariables: void 0,
+                              implicitPathVariables: void 0,
+                            },
+                            {
+                              href: {
+                                hash: `:Cyd4W2QVH`,
+                                webPageId: `dqkkaMW66`,
                               },
-                            ],
-                            children: (e) =>
-                              a(h, {
-                                height: 21,
-                                ...Y(
-                                  {
-                                    F3MZPXXKZ: { y: (f?.y || 0) + 91 + 0 + 90 },
-                                  },
-                                  S,
-                                  D
-                                ),
-                                children: a(b, {
-                                  className: `framer-f9csrj-container`,
-                                  layoutDependency: I,
-                                  layoutId: `bbrBNRiPX-container`,
-                                  nodeId: `bbrBNRiPX`,
-                                  rendersWithMotion: !0,
-                                  scopeId: `kJYLTxD7F`,
-                                  children: a(X, {
-                                    __framer__animateOnce: !1,
-                                    __framer__threshold: 0.5,
-                                    __framer__variantAppearEffectEnabled: !0,
-                                    aqR4frobj: `Experience`,
-                                    dWfIQ61kM: e[0],
-                                    height: `100%`,
-                                    id: `bbrBNRiPX`,
-                                    layoutId: `bbrBNRiPX`,
-                                    LjYHBIhA6: V,
-                                    variant: `MKQWM9WYD`,
-                                    width: `100%`,
-                                    ...Y(
-                                      { F3MZPXXKZ: { dWfIQ61kM: e[1] } },
-                                      S,
-                                      D
-                                    ),
-                                  }),
+                              implicitPathVariables: void 0,
+                            },
+                          ],
+                          children: (e) =>
+                            a(h, {
+                              height: 21,
+                              ...Y(
+                                {
+                                  F3MZPXXKZ: { y: (f?.y || 0) + 91 + 0 + 90 },
+                                },
+                                S,
+                                D
+                              ),
+                              children: a(b, {
+                                className: `framer-f9csrj-container`,
+                                layoutDependency: I,
+                                layoutId: `bbrBNRiPX-container`,
+                                nodeId: `bbrBNRiPX`,
+                                rendersWithMotion: !0,
+                                scopeId: `kJYLTxD7F`,
+                                children: a(X, {
+                                  __framer__animateOnce: !1,
+                                  __framer__threshold: 0.5,
+                                  __framer__variantAppearEffectEnabled: !0,
+                                  aqR4frobj: `Experience`,
+                                  dWfIQ61kM: e[0],
+                                  height: `100%`,
+                                  id: `bbrBNRiPX`,
+                                  layoutId: `bbrBNRiPX`,
+                                  LjYHBIhA6: V,
+                                  variant: `MKQWM9WYD`,
+                                  width: `100%`,
+                                  ...Y(
+                                    { F3MZPXXKZ: { dWfIQ61kM: e[1] } },
+                                    S,
+                                    D
+                                  ),
                                 }),
                               }),
-                          }),
-                          a(v, {
-                            links: [
-                              {
-                                href: {
-                                  hash: `:swq3kdRwG`,
-                                  webPageId: `dqkkaMW66`,
-                                },
-                                implicitPathVariables: void 0,
+                            }),
+                        }),
+                        a(v, {
+                          links: [
+                            {
+                              href: {
+                                hash: `:swq3kdRwG`,
+                                webPageId: `dqkkaMW66`,
                               },
-                              {
-                                href: {
-                                  hash: `:swq3kdRwG`,
-                                  webPageId: `dqkkaMW66`,
-                                },
-                                implicitPathVariables: void 0,
+                              implicitPathVariables: void 0,
+                            },
+                            {
+                              href: {
+                                hash: `:swq3kdRwG`,
+                                webPageId: `dqkkaMW66`,
                               },
-                            ],
-                            children: (e) =>
-                              a(h, {
-                                height: 21,
-                                ...Y(
-                                  {
-                                    F3MZPXXKZ: {
-                                      y: (f?.y || 0) + 91 + 0 + 135,
-                                    },
+                              implicitPathVariables: void 0,
+                            },
+                          ],
+                          children: (e) =>
+                            a(h, {
+                              height: 21,
+                              ...Y(
+                                {
+                                  F3MZPXXKZ: {
+                                    y: (f?.y || 0) + 91 + 0 + 135,
                                   },
-                                  S,
-                                  D
-                                ),
-                                children: a(b, {
-                                  className: `framer-1cz6lxd-container`,
-                                  layoutDependency: I,
-                                  layoutId: `GjGynZ7WI-container`,
-                                  nodeId: `GjGynZ7WI`,
-                                  rendersWithMotion: !0,
-                                  scopeId: `kJYLTxD7F`,
-                                  children: a(X, {
-                                    __framer__animateOnce: !1,
-                                    __framer__threshold: 0.5,
-                                    __framer__variantAppearEffectEnabled: !0,
-                                    aqR4frobj: `Skills`,
-                                    dWfIQ61kM: e[0],
-                                    height: `100%`,
-                                    id: `GjGynZ7WI`,
-                                    layoutId: `GjGynZ7WI`,
-                                    LjYHBIhA6: V,
-                                    variant: `MKQWM9WYD`,
-                                    width: `100%`,
-                                    ...Y(
-                                      { F3MZPXXKZ: { dWfIQ61kM: e[1] } },
-                                      S,
-                                      D
-                                    ),
-                                  }),
+                                },
+                                S,
+                                D
+                              ),
+                              children: a(b, {
+                                className: `framer-1cz6lxd-container`,
+                                layoutDependency: I,
+                                layoutId: `GjGynZ7WI-container`,
+                                nodeId: `GjGynZ7WI`,
+                                rendersWithMotion: !0,
+                                scopeId: `kJYLTxD7F`,
+                                children: a(X, {
+                                  __framer__animateOnce: !1,
+                                  __framer__threshold: 0.5,
+                                  __framer__variantAppearEffectEnabled: !0,
+                                  aqR4frobj: `Skills`,
+                                  dWfIQ61kM: e[0],
+                                  height: `100%`,
+                                  id: `GjGynZ7WI`,
+                                  layoutId: `GjGynZ7WI`,
+                                  LjYHBIhA6: V,
+                                  variant: `MKQWM9WYD`,
+                                  width: `100%`,
+                                  ...Y(
+                                    { F3MZPXXKZ: { dWfIQ61kM: e[1] } },
+                                    S,
+                                    D
+                                  ),
                                 }),
                               }),
-                          }),
-                          a(v, {
-                            links: [
-                              {
-                                href: { webPageId: `skCBjGGGU` },
-                                implicitPathVariables: void 0,
-                              },
-                              {
-                                href: { webPageId: `skCBjGGGU` },
-                                implicitPathVariables: void 0,
-                              },
-                            ],
-                            children: (e) =>
-                              a(h, {
-                                height: 21,
-                                ...Y(
-                                  {
-                                    F3MZPXXKZ: {
-                                      y: (f?.y || 0) + 91 + 0 + 180,
-                                    },
+                            }),
+                        }),
+                        a(v, {
+                          links: [
+                            {
+                              href: { webPageId: `skCBjGGGU` },
+                              implicitPathVariables: void 0,
+                            },
+                            {
+                              href: { webPageId: `skCBjGGGU` },
+                              implicitPathVariables: void 0,
+                            },
+                          ],
+                          children: (e) =>
+                            a(h, {
+                              height: 21,
+                              ...Y(
+                                {
+                                  F3MZPXXKZ: {
+                                    y: (f?.y || 0) + 91 + 0 + 180,
                                   },
-                                  S,
-                                  D
-                                ),
-                                children: a(b, {
-                                  className: `framer-1s3bowo-container`,
-                                  layoutDependency: I,
-                                  layoutId: `odTXSuwHq-container`,
-                                  nodeId: `odTXSuwHq`,
-                                  rendersWithMotion: !0,
-                                  scopeId: `kJYLTxD7F`,
-                                  children: a(X, {
-                                    __framer__animateOnce: !1,
-                                    __framer__threshold: 0.5,
-                                    __framer__variantAppearEffectEnabled: !0,
-                                    aqR4frobj: `Contact`,
-                                    dWfIQ61kM: e[0],
-                                    height: `100%`,
-                                    id: `odTXSuwHq`,
-                                    layoutId: `odTXSuwHq`,
-                                    LjYHBIhA6: V,
-                                    variant: `MKQWM9WYD`,
-                                    width: `100%`,
-                                    ...Y(
-                                      { F3MZPXXKZ: { dWfIQ61kM: e[1] } },
-                                      S,
-                                      D
-                                    ),
-                                  }),
+                                },
+                                S,
+                                D
+                              ),
+                              children: a(b, {
+                                className: `framer-1s3bowo-container`,
+                                layoutDependency: I,
+                                layoutId: `odTXSuwHq-container`,
+                                nodeId: `odTXSuwHq`,
+                                rendersWithMotion: !0,
+                                scopeId: `kJYLTxD7F`,
+                                children: a(X, {
+                                  __framer__animateOnce: !1,
+                                  __framer__threshold: 0.5,
+                                  __framer__variantAppearEffectEnabled: !0,
+                                  aqR4frobj: `Contact`,
+                                  dWfIQ61kM: e[0],
+                                  height: `100%`,
+                                  id: `odTXSuwHq`,
+                                  layoutId: `odTXSuwHq`,
+                                  LjYHBIhA6: V,
+                                  variant: `MKQWM9WYD`,
+                                  width: `100%`,
+                                  ...Y(
+                                    { F3MZPXXKZ: { dWfIQ61kM: e[1] } },
+                                    S,
+                                    D
+                                  ),
                                 }),
                               }),
-                          }),
-                        ],
-                      }),
+                            }),
+                        }),
+                      ],
+                    }),
                   ],
                 }),
               }),
@@ -2721,7 +2721,7 @@ function Dt(e, t) {
     title: `DDDDD SREERAG C - UI UX DESIGNER 999000 `,
   };
 }
-var Ot = e(() => {});
+var Ot = e(() => { });
 export {
   J as FramerBEGDBMHl_,
   K as FramerIZPeE10DN,
