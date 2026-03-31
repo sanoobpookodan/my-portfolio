@@ -5101,7 +5101,7 @@ var Un,
                                         CuO7siNIx: `Code`,
                                         height: `100%`,
                                         id: `hh11FWgSI`,
-                                        IMn0WxFMz: `Build high-quality cross-platform apps using React Native.`,
+                                        IMn0WxFMz: `Build high-quality cross-platform apps using React Native`,
                                         layoutId: `hh11FWgSI`,
                                         ps8egKa2j: `Mobile App Development`,
                                         style: { width: `100%` },
@@ -5161,12 +5161,12 @@ var Un,
                                       nodeId: `y77OLEu7E`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `Plug`,
+                                        CuO7siNIx: `Layout`,
                                         height: `100%`,
                                         id: `y77OLEu7E`,
-                                        IMn0WxFMz: `Connect apps with REST APIs and services like Razorpay.`,
+                                        IMn0WxFMz: `Create optimized components with smooth animations`,
                                         layoutId: `y77OLEu7E`,
-                                        ps8egKa2j: `API Integration`,
+                                        ps8egKa2j: `Reusable Components & Animations`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5224,12 +5224,12 @@ var Un,
                                       nodeId: `raZOLonfd`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `DeviceMobile`,
+                                        CuO7siNIx: `Shuffle`,
                                         height: `100%`,
                                         id: `raZOLonfd`,
-                                        IMn0WxFMz: `Create optimized components with smooth animations.`,
+                                        IMn0WxFMz: `Manage app state efficiently using Zustand, Redux Toolkit, and Context API`,
                                         layoutId: `raZOLonfd`,
-                                        ps8egKa2j: `Reusable Components & Animations`,
+                                        ps8egKa2j: `State Management`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5287,12 +5287,12 @@ var Un,
                                       nodeId: `Ayig6b5o9`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `Layout`,
+                                        CuO7siNIx: `Binoculars`,
                                         height: `100%`,
                                         id: `Ayig6b5o9`,
-                                        IMn0WxFMz: `Design pixel-perfect UIs for all screen sizes.`,
+                                        IMn0WxFMz: `Optimize bundle size, memory usage, and runtime performance for smooth UX`,
                                         layoutId: `Ayig6b5o9`,
-                                        ps8egKa2j: `Responsive UI Design`,
+                                        ps8egKa2j: `Performance & Optimization`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5350,12 +5350,12 @@ var Un,
                                       nodeId: `p_B8tD6al`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `Shuffle`,
+                                        CuO7siNIx: `Rows`,
                                         height: `100%`,
                                         id: `p_B8tD6al`,
-                                        IMn0WxFMz: `Manage app state efficiently using Redux and Context API.`,
+                                        IMn0WxFMz: `Design pixel-perfect UIs that adapt seamlessly to all screen sizes and devices`,
                                         layoutId: `p_B8tD6al`,
-                                        ps8egKa2j: `State Management`,
+                                        ps8egKa2j: `Responsive UI Design`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5413,12 +5413,12 @@ var Un,
                                       nodeId: `OVu31kbGh`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `Users`,
+                                        CuO7siNIx: `Plug`,
                                         height: `100%`,
                                         id: `OVu31kbGh`,
-                                        IMn0WxFMz: `Work closely with designers, backend, and QA teams.`,
+                                        IMn0WxFMz: `Connect apps with REST APIs and WebSockets for real-time data synchronization`,
                                         layoutId: `OVu31kbGh`,
-                                        ps8egKa2j: `Team Collaboration`,
+                                        ps8egKa2j: `API Integration & Real-time Communication`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5440,7 +5440,7 @@ var Un,
                                         0 +
                                         130.4 +
                                         0 +
-                                        208,
+                                        312,
                                     },
                                     yPVcpR5st: {
                                       width: `max(min(${p?.width || `100vw`
@@ -5454,7 +5454,7 @@ var Un,
                                         0 +
                                         130.4 +
                                         0 +
-                                        520,
+                                        624,
                                     },
                                   },
                                   children: o(v, {
@@ -5470,18 +5470,18 @@ var Un,
                                       0 +
                                       130.4 +
                                       0 +
-                                      208,
+                                      312,
                                     children: o(y, {
-                                      className: `framer-cyayjl-container`,
-                                      nodeId: `OVu31kbGh`,
+                                      className: `framer-qwerui-container`,
+                                      nodeId: `B1w_A7zYt`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `GitBranch`,
+                                        CuO7siNIx: `Cloud`,
                                         height: `100%`,
-                                        id: `OVu31kbGh`,
-                                        IMn0WxFMz: `Streamline deployment with Git and automated CI/CD workflows.`,
-                                        layoutId: `OVu31kbGh`,
-                                        ps8egKa2j: `CI/CD & Version Control`,
+                                        id: `B1w_A7zYt`,
+                                        IMn0WxFMz: `Build and integrate Node.js backend services, REST APIs, and real-time databases`,
+                                        layoutId: `B1w_A7zYt`,
+                                        ps8egKa2j: `Backend Integration & APIs`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5503,7 +5503,7 @@ var Un,
                                         0 +
                                         130.4 +
                                         0 +
-                                        208,
+                                        312,
                                     },
                                     yPVcpR5st: {
                                       width: `max(min(${p?.width || `100vw`
@@ -5517,7 +5517,7 @@ var Un,
                                         0 +
                                         130.4 +
                                         0 +
-                                        520,
+                                        728,
                                     },
                                   },
                                   children: o(v, {
@@ -5533,17 +5533,206 @@ var Un,
                                       0 +
                                       130.4 +
                                       0 +
-                                      208,
+                                      312,
                                     children: o(y, {
-                                      className: `framer-cyayjl-container`,
-                                      nodeId: `OVu31kbGh`,
+                                      className: `framer-zxcasd-container`,
+                                      nodeId: `C8f_J3xKo`,
+                                      scopeId: `dqkkaMW66`,
+                                      children: o(H, {
+                                        CuO7siNIx: `Database`,
+                                        height: `100%`,
+                                        id: `C8f_J3xKo`,
+                                        IMn0WxFMz: `Design robust PostgreSQL and MongoDB databases with optimized queries`,
+                                        layoutId: `C8f_J3xKo`,
+                                        ps8egKa2j: `Database Architecture`,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                                o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    mExYMsC3z: {
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        5796.15 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        416,
+                                    },
+                                    yPVcpR5st: {
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        4087.4 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        832,
+                                    },
+                                  },
+                                  children: o(v, {
+                                    height: 80,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    y:
+                                      (p?.y || 0) +
+                                      0 +
+                                      5976.15 +
+                                      0 +
+                                      0 +
+                                      0 +
+                                      130.4 +
+                                      0 +
+                                      416,
+                                    children: o(y, {
+                                      className: `framer-mnbvcx-container`,
+                                      nodeId: `P9g_L2mMp`,
+                                      scopeId: `dqkkaMW66`,
+                                      children: o(H, {
+                                        CuO7siNIx: `Flame`,
+                                        height: `100%`,
+                                        id: `P9g_L2mMp`,
+                                        IMn0WxFMz: `Implement Firebase for push notifications, authentication, real-time sync, and cloud storage`,
+                                        layoutId: `P9g_L2mMp`,
+                                        ps8egKa2j: `Firebase Services`,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                                o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    mExYMsC3z: {
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        5796.15 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        416,
+                                    },
+                                    yPVcpR5st: {
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        4087.4 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        936,
+                                    },
+                                  },
+                                  children: o(v, {
+                                    height: 80,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    y:
+                                      (p?.y || 0) +
+                                      0 +
+                                      5976.15 +
+                                      0 +
+                                      0 +
+                                      0 +
+                                      130.4 +
+                                      0 +
+                                      416,
+                                    children: o(y, {
+                                      className: `framer-asdfgh-container`,
+                                      nodeId: `T5x_N9kLo`,
+                                      scopeId: `dqkkaMW66`,
+                                      children: o(H, {
+                                        CuO7siNIx: `CreditCard`,
+                                        height: `100%`,
+                                        id: `T5x_N9kLo`,
+                                        IMn0WxFMz: `Implement secure payments via Razorpay, including subscriptions and invoicing`,
+                                        layoutId: `T5x_N9kLo`,
+                                        ps8egKa2j: `Payment Gateway Integration`,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                                o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    mExYMsC3z: {
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        5796.15 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        520,
+                                    },
+                                    yPVcpR5st: {
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        4087.4 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        1040,
+                                    },
+                                  },
+                                  children: o(v, {
+                                    height: 80,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    y:
+                                      (p?.y || 0) +
+                                      0 +
+                                      5976.15 +
+                                      0 +
+                                      0 +
+                                      0 +
+                                      130.4 +
+                                      0 +
+                                      520,
+                                    children: o(y, {
+                                      className: `framer-lkjhgf-container`,
+                                      nodeId: `E3v_C7bVq`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
                                         CuO7siNIx: `MapPin`,
                                         height: `100%`,
-                                        id: `OVu31kbGh`,
-                                        IMn0WxFMz: `Add Google Maps and location-based features.`,
-                                        layoutId: `OVu31kbGh`,
+                                        id: `E3v_C7bVq`,
+                                        IMn0WxFMz: `Add location-based features including maps and geofencing`,
+                                        layoutId: `E3v_C7bVq`,
                                         ps8egKa2j: `Google Maps Integration`,
                                         style: { width: `100%` },
                                         width: `100%`,
@@ -5566,7 +5755,7 @@ var Un,
                                         0 +
                                         130.4 +
                                         0 +
-                                        208,
+                                        520,
                                     },
                                     yPVcpR5st: {
                                       width: `max(min(${p?.width || `100vw`
@@ -5580,7 +5769,7 @@ var Un,
                                         0 +
                                         130.4 +
                                         0 +
-                                        520,
+                                        1144,
                                     },
                                   },
                                   children: o(v, {
@@ -5596,18 +5785,144 @@ var Un,
                                       0 +
                                       130.4 +
                                       0 +
-                                      208,
+                                      520,
                                     children: o(y, {
-                                      className: `framer-cyayjl-container`,
-                                      nodeId: `OVu31kbGh`,
+                                      className: `framer-poiuyt-container`,
+                                      nodeId: `U7c_X2pRo`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(H, {
-                                        CuO7siNIx: `CreditCard`,
+                                        CuO7siNIx: `GitBranch`,
                                         height: `100%`,
-                                        id: `OVu31kbGh`,
-                                        IMn0WxFMz: `Implement secure payments via gateways like Razorpay.`,
-                                        layoutId: `OVu31kbGh`,
-                                        ps8egKa2j: `Payment Gateway Integration`,
+                                        id: `U7c_X2pRo`,
+                                        IMn0WxFMz: `Streamline deployment with automated CI/CD pipelines using GitHub Actions and Fastlane`,
+                                        layoutId: `U7c_X2pRo`,
+                                        ps8egKa2j: `Cloud Deployment & CI/CD`,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                                o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    mExYMsC3z: {
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        5796.15 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        624,
+                                    },
+                                    yPVcpR5st: {
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        4087.4 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        1248,
+                                    },
+                                  },
+                                  children: o(v, {
+                                    height: 80,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    y:
+                                      (p?.y || 0) +
+                                      0 +
+                                      5976.15 +
+                                      0 +
+                                      0 +
+                                      0 +
+                                      130.4 +
+                                      0 +
+                                      624,
+                                    children: o(y, {
+                                      className: `framer-trewqas-container`,
+                                      nodeId: `I4o_M1yTr`,
+                                      scopeId: `dqkkaMW66`,
+                                      children: o(H, {
+                                        CuO7siNIx: `Shield`,
+                                        height: `100%`,
+                                        id: `I4o_M1yTr`,
+                                        IMn0WxFMz: `Implement secure authentication, data encryption, and follow OWASP security guidelines`,
+                                        layoutId: `I4o_M1yTr`,
+                                        ps8egKa2j: `Security & Best Practices`,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                                o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    mExYMsC3z: {
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        5796.15 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        624,
+                                    },
+                                    yPVcpR5st: {
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        4087.4 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        1352,
+                                    },
+                                  },
+                                  children: o(v, {
+                                    height: 80,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    y:
+                                      (p?.y || 0) +
+                                      0 +
+                                      5976.15 +
+                                      0 +
+                                      0 +
+                                      0 +
+                                      130.4 +
+                                      0 +
+                                      624,
+                                    children: o(y, {
+                                      className: `framer-zxcvbnm-container`,
+                                      nodeId: `K6s_Z8wDe`,
+                                      scopeId: `dqkkaMW66`,
+                                      children: o(H, {
+                                        CuO7siNIx: `Users`,
+                                        height: `100%`,
+                                        id: `K6s_Z8wDe`,
+                                        IMn0WxFMz: `Work closely with designers, backend, and QA teams using modern collaboration tools`,
+                                        layoutId: `K6s_Z8wDe`,
+                                        ps8egKa2j: `Team Collaboration`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -6136,6 +6451,76 @@ var Un,
                                         IMn0WxFMz: `Building, testing, and debugging mobile apps on Android and iOS`,
                                         layoutId: `OVu31kbGh`,
                                         ps8egKa2j: `Android Studio & Xcode`,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+                                o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    mExYMsC3z: {
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        5796.15 +
+                                        0 +
+                                        578.4 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        208,
+                                    },
+                                    yPVcpR5st: {
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        4087.4 +
+                                        0 +
+                                        850.4 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        104,
+                                    },
+                                  },
+                                  children: o(v, {
+                                    height: 80,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    y:
+                                      (p?.y || 0) +
+                                      0 +
+                                      5976.15 +
+                                      0 +
+                                      578.4 +
+                                      0 +
+                                      130.4 +
+                                      0 +
+                                      208,
+                                    children: o(y, {
+                                      className: `framer-cyayjl-container`,
+                                      nodeId: `OVu31kbGh`,
+                                      scopeId: `dqkkaMW66`,
+                                      children: o(K, {
+                                        CAjvRtXzm: X(
+                                          {
+                                            pixelHeight: 404,
+                                            pixelWidth: 404,
+                                            src: `./images/postman.png`,
+                                          },
+                                          ``,
+                                        ),
+                                        height: `100%`,
+                                        id: `OVu31kbGh`,
+                                        IMn0WxFMz: `API testing tool for sending requests, validating responses, and debugging endpoints`,
+                                        layoutId: `OVu31kbGh`,
+                                        ps8egKa2j: `Postman`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),

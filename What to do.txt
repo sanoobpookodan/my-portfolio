@@ -1,0 +1,42 @@
+Mobile App Development
+Build high-quality cross-platform apps using React Native
+
+Reusable Components & Animations
+Create optimized components with smooth animations
+
+State Management
+Manage app state efficiently using Zustund, Redux Toolkit, and Context API
+
+Performance & Optimization
+Optimize bundle size, memory usage, and runtime performance for smooth UX
+
+Security & Best Practices
+Implement secure authentication, data encryption, and follow OWASP security guidelines
+
+
+API Integration
+Connect apps with REST APIs and WebSockets for real-time data synchronization
+
+Responsive UI Design
+Design pixel-perfect UIs that adapt seamlessly to all screen sizes and devices
+
+Team Collaboration
+Work closely with designers, backend, and QA teams using modern collaboration tools
+
+Google Maps Integration
+Add location-based features including maps, and geofencing.
+
+Payment Gateway Integration
+Implement secure payments via Razorpay, including subscriptions and invoicing
+
+Cloud Deployment & CI/CD
+Streamline deployment with automated CI/CD pipelines using GitHub Actions and Fastlane
+
+Backend Integration & APIs
+Build and integrate Node.js backend services, REST APIs, and real-time databases
+
+Database Architecture
+Design robust PostgreSQL and MongoDB databases with optimized queries
+
+Firebase Services
+Implement Firebase for push notifications, authentication, real-time sync, and cloud storage
