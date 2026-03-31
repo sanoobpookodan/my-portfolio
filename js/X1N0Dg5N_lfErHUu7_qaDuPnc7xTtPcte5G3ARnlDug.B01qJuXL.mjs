@@ -132,72 +132,72 @@ var Je,
   nt = e(() => {
     ((et = (e) => (
       Qe ||
-        ((Qe = new Map([
-          [
-            `bold`,
-            e.createElement(
-              e.Fragment,
-              null,
-              e.createElement(`path`, {
-                d: `M222.14,105.85l-80-80a20,20,0,0,0-28.28,0l-80,80A19.86,19.86,0,0,0,28,120v96a12,12,0,0,0,12,12h64a12,12,0,0,0,12-12V164h24v52a12,12,0,0,0,12,12h64a12,12,0,0,0,12-12V120A19.86,19.86,0,0,0,222.14,105.85ZM204,204H164V152a12,12,0,0,0-12-12H104a12,12,0,0,0-12,12v52H52V121.65l76-76,76,76Z`,
-              }),
-            ),
-          ],
-          [
-            `duotone`,
-            e.createElement(
-              e.Fragment,
-              null,
-              e.createElement(`path`, {
-                d: `M216,120v96H152V152H104v64H40V120a8,8,0,0,1,2.34-5.66l80-80a8,8,0,0,1,11.32,0l80,80A8,8,0,0,1,216,120Z`,
-                opacity: `0.2`,
-              }),
-              e.createElement(`path`, {
-                d: `M219.31,108.68l-80-80a16,16,0,0,0-22.62,0l-80,80A15.87,15.87,0,0,0,32,120v96a8,8,0,0,0,8,8h64a8,8,0,0,0,8-8V160h32v56a8,8,0,0,0,8,8h64a8,8,0,0,0,8-8V120A15.87,15.87,0,0,0,219.31,108.68ZM208,208H160V152a8,8,0,0,0-8-8H104a8,8,0,0,0-8,8v56H48V120l80-80,80,80Z`,
-              }),
-            ),
-          ],
-          [
-            `fill`,
-            e.createElement(
-              e.Fragment,
-              null,
-              e.createElement(`path`, {
-                d: `M224,120v96a8,8,0,0,1-8,8H160a8,8,0,0,1-8-8V164a4,4,0,0,0-4-4H108a4,4,0,0,0-4,4v52a8,8,0,0,1-8,8H40a8,8,0,0,1-8-8V120a16,16,0,0,1,4.69-11.31l80-80a16,16,0,0,1,22.62,0l80,80A16,16,0,0,1,224,120Z`,
-              }),
-            ),
-          ],
-          [
-            `light`,
-            e.createElement(
-              e.Fragment,
-              null,
-              e.createElement(`path`, {
-                d: `M217.9,110.1l-80-80a14,14,0,0,0-19.8,0l-80,80A13.92,13.92,0,0,0,34,120v96a6,6,0,0,0,6,6h64a6,6,0,0,0,6-6V158h36v58a6,6,0,0,0,6,6h64a6,6,0,0,0,6-6V120A13.92,13.92,0,0,0,217.9,110.1ZM210,210H158V152a6,6,0,0,0-6-6H104a6,6,0,0,0-6,6v58H46V120a2,2,0,0,1,.58-1.42l80-80a2,2,0,0,1,2.84,0l80,80A2,2,0,0,1,210,120Z`,
-              }),
-            ),
-          ],
-          [
-            `regular`,
-            e.createElement(
-              e.Fragment,
-              null,
-              e.createElement(`path`, {
-                d: `M219.31,108.68l-80-80a16,16,0,0,0-22.62,0l-80,80A15.87,15.87,0,0,0,32,120v96a8,8,0,0,0,8,8h64a8,8,0,0,0,8-8V160h32v56a8,8,0,0,0,8,8h64a8,8,0,0,0,8-8V120A15.87,15.87,0,0,0,219.31,108.68ZM208,208H160V152a8,8,0,0,0-8-8H104a8,8,0,0,0-8,8v56H48V120l80-80,80,80Z`,
-              }),
-            ),
-          ],
-          [
-            `thin`,
-            e.createElement(
-              e.Fragment,
-              null,
-              e.createElement(`path`, {
-                d: `M216.49,111.51l-80-80a12,12,0,0,0-17,0l-80,80A12,12,0,0,0,36,120v96a4,4,0,0,0,4,4h64a4,4,0,0,0,4-4V156h40v60a4,4,0,0,0,4,4h64a4,4,0,0,0,4-4V120A12,12,0,0,0,216.49,111.51ZM212,212H156V152a4,4,0,0,0-4-4H104a4,4,0,0,0-4,4v60H44V120a4,4,0,0,1,1.17-2.83l80-80a4,4,0,0,1,5.66,0l80,80A4,4,0,0,1,212,120Z`,
-              }),
-            ),
-          ],
-        ])),
+      ((Qe = new Map([
+        [
+          `bold`,
+          e.createElement(
+            e.Fragment,
+            null,
+            e.createElement(`path`, {
+              d: `M222.14,105.85l-80-80a20,20,0,0,0-28.28,0l-80,80A19.86,19.86,0,0,0,28,120v96a12,12,0,0,0,12,12h64a12,12,0,0,0,12-12V164h24v52a12,12,0,0,0,12,12h64a12,12,0,0,0,12-12V120A19.86,19.86,0,0,0,222.14,105.85ZM204,204H164V152a12,12,0,0,0-12-12H104a12,12,0,0,0-12,12v52H52V121.65l76-76,76,76Z`,
+            }),
+          ),
+        ],
+        [
+          `duotone`,
+          e.createElement(
+            e.Fragment,
+            null,
+            e.createElement(`path`, {
+              d: `M216,120v96H152V152H104v64H40V120a8,8,0,0,1,2.34-5.66l80-80a8,8,0,0,1,11.32,0l80,80A8,8,0,0,1,216,120Z`,
+              opacity: `0.2`,
+            }),
+            e.createElement(`path`, {
+              d: `M219.31,108.68l-80-80a16,16,0,0,0-22.62,0l-80,80A15.87,15.87,0,0,0,32,120v96a8,8,0,0,0,8,8h64a8,8,0,0,0,8-8V160h32v56a8,8,0,0,0,8,8h64a8,8,0,0,0,8-8V120A15.87,15.87,0,0,0,219.31,108.68ZM208,208H160V152a8,8,0,0,0-8-8H104a8,8,0,0,0-8,8v56H48V120l80-80,80,80Z`,
+            }),
+          ),
+        ],
+        [
+          `fill`,
+          e.createElement(
+            e.Fragment,
+            null,
+            e.createElement(`path`, {
+              d: `M224,120v96a8,8,0,0,1-8,8H160a8,8,0,0,1-8-8V164a4,4,0,0,0-4-4H108a4,4,0,0,0-4,4v52a8,8,0,0,1-8,8H40a8,8,0,0,1-8-8V120a16,16,0,0,1,4.69-11.31l80-80a16,16,0,0,1,22.62,0l80,80A16,16,0,0,1,224,120Z`,
+            }),
+          ),
+        ],
+        [
+          `light`,
+          e.createElement(
+            e.Fragment,
+            null,
+            e.createElement(`path`, {
+              d: `M217.9,110.1l-80-80a14,14,0,0,0-19.8,0l-80,80A13.92,13.92,0,0,0,34,120v96a6,6,0,0,0,6,6h64a6,6,0,0,0,6-6V158h36v58a6,6,0,0,0,6,6h64a6,6,0,0,0,6-6V120A13.92,13.92,0,0,0,217.9,110.1ZM210,210H158V152a6,6,0,0,0-6-6H104a6,6,0,0,0-6,6v58H46V120a2,2,0,0,1,.58-1.42l80-80a2,2,0,0,1,2.84,0l80,80A2,2,0,0,1,210,120Z`,
+            }),
+          ),
+        ],
+        [
+          `regular`,
+          e.createElement(
+            e.Fragment,
+            null,
+            e.createElement(`path`, {
+              d: `M219.31,108.68l-80-80a16,16,0,0,0-22.62,0l-80,80A15.87,15.87,0,0,0,32,120v96a8,8,0,0,0,8,8h64a8,8,0,0,0,8-8V160h32v56a8,8,0,0,0,8,8h64a8,8,0,0,0,8-8V120A15.87,15.87,0,0,0,219.31,108.68ZM208,208H160V152a8,8,0,0,0-8-8H104a8,8,0,0,0-8,8v56H48V120l80-80,80,80Z`,
+            }),
+          ),
+        ],
+        [
+          `thin`,
+          e.createElement(
+            e.Fragment,
+            null,
+            e.createElement(`path`, {
+              d: `M216.49,111.51l-80-80a12,12,0,0,0-17,0l-80,80A12,12,0,0,0,36,120v96a4,4,0,0,0,4,4h64a4,4,0,0,0,4-4V156h40v60a4,4,0,0,0,4,4h64a4,4,0,0,0,4-4V120A12,12,0,0,0,216.49,111.51ZM212,212H156V152a4,4,0,0,0-4-4H104a4,4,0,0,0-4,4v60H44V120a4,4,0,0,1,1.17-2.83l80-80a4,4,0,0,1,5.66,0l80,80A4,4,0,0,1,212,120Z`,
+            }),
+          ),
+        ],
+      ])),
         ($e = e.forwardRef((t, n) =>
           e.createElement(`g`, { ref: n, ...t }, Qe.get(t.weight)),
         ))),
@@ -207,12 +207,12 @@ var Je,
   });
 function rt(e, t, n = ``, r, i) {
   let a = l(() => {
-      if (n == null || n?.length === 0) return null;
-      let t = n.toLowerCase().replace(/-|\s/g, ``);
-      var r;
-      let a = (r = i[t]) ?? at(e, t);
-      return a;
-    }, [r, n]),
+    if (n == null || n?.length === 0) return null;
+    let t = n.toLowerCase().replace(/-|\s/g, ``);
+    var r;
+    let a = (r = i[t]) ?? at(e, t);
+    return a;
+  }, [r, n]),
     o = t ? r : a;
   return o;
 }
@@ -232,18 +232,18 @@ var it,
   });
 function V(e) {
   let {
-      color: t,
-      selectByList: n,
-      iconSearch: r,
-      iconSelection: i,
-      onClick: c,
-      onMouseDown: l,
-      onMouseUp: u,
-      onMouseEnter: f,
-      onMouseLeave: m,
-      weight: h,
-      mirrored: g,
-    } = e,
+    color: t,
+    selectByList: n,
+    iconSearch: r,
+    iconSelection: i,
+    onClick: c,
+    onMouseDown: l,
+    onMouseUp: u,
+    onMouseEnter: f,
+    onMouseLeave: m,
+    weight: h,
+    mirrored: g,
+  } = e,
     v = s(!1),
     y = rt(st, n, r, i, ut),
     [b, x] = p(y === `Home` ? tt(a) : null);
@@ -277,22 +277,22 @@ function V(e) {
     onMouseUp: u,
     children: b
       ? o(`svg`, {
-          xmlns: `http://www.w3.org/2000/svg`,
-          viewBox: `0 0 256 256`,
-          style: {
-            userSelect: `none`,
-            width: `100%`,
-            height: `100%`,
-            display: `inline-block`,
-            fill: t,
-            color: t,
-            flexShrink: 0,
-            transform: g ? `scale(-1, 1)` : void 0,
-          },
-          focusable: `false`,
+        xmlns: `http://www.w3.org/2000/svg`,
+        viewBox: `0 0 256 256`,
+        style: {
+          userSelect: `none`,
+          width: `100%`,
+          height: `100%`,
+          display: `inline-block`,
+          fill: t,
           color: t,
-          children: o(b, { color: t, weight: h }),
-        })
+          flexShrink: 0,
+          transform: g ? `scale(-1, 1)` : void 0,
+        },
+        focusable: `false`,
+        color: t,
+        children: o(b, { color: t, weight: h }),
+      })
       : C,
   });
 }
@@ -1166,233 +1166,233 @@ var kt,
                               ],
                             }),
                             se() &&
-                              u(_.div, {
-                                className: `framer-16tjthy`,
-                                "data-framer-name": `Feature`,
-                                layoutDependency: I,
-                                layoutId: `Lonq9XXYs`,
-                                children: [
-                                  o(v, {
-                                    children: o(_.div, {
-                                      className: `framer-12hhvjp-container`,
-                                      layoutDependency: I,
-                                      layoutId: `GxuBJGo8Y-container`,
-                                      children: o(V, {
-                                        color: `var(--token-fe8040e6-3344-44c0-bab9-226d490ba5f3, rgb(255, 255, 255))`,
-                                        height: `100%`,
-                                        iconSearch: `House`,
-                                        iconSelection: b,
-                                        id: `GxuBJGo8Y`,
-                                        layoutId: `GxuBJGo8Y`,
-                                        mirrored: !1,
-                                        selectByList: !0,
-                                        style: {
-                                          height: `100%`,
-                                          width: `100%`,
-                                        },
-                                        weight: `bold`,
-                                        width: `100%`,
-                                      }),
-                                    }),
-                                  }),
-                                  o(T, {
-                                    __fromCanvasComponent: !0,
-                                    children: o(f, {
-                                      children: o(_.p, {
-                                        className: `framer-styles-preset-1hj8z0a`,
-                                        "data-styles-preset": `UByHkDadJ`,
-                                        style: {
-                                          "--framer-text-color": `var(--extracted-r6o4lv, var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184)))`,
-                                        },
-                                        children: `Responsive design for all devices`,
-                                      }),
-                                    }),
-                                    className: `framer-mhqxnx`,
-                                    fonts: [`Inter`],
+                            u(_.div, {
+                              className: `framer-16tjthy`,
+                              "data-framer-name": `Feature`,
+                              layoutDependency: I,
+                              layoutId: `Lonq9XXYs`,
+                              children: [
+                                o(v, {
+                                  children: o(_.div, {
+                                    className: `framer-12hhvjp-container`,
                                     layoutDependency: I,
-                                    layoutId: `wAzeYfK1I`,
-                                    style: {
-                                      "--extracted-r6o4lv": `var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184))`,
-                                      "--framer-link-text-color": `rgb(0, 153, 255)`,
-                                      "--framer-link-text-decoration": `underline`,
-                                    },
-                                    text: x,
-                                    verticalAlignment: `top`,
-                                    withExternalLayout: !0,
+                                    layoutId: `GxuBJGo8Y-container`,
+                                    children: o(V, {
+                                      color: `var(--token-fe8040e6-3344-44c0-bab9-226d490ba5f3, rgb(255, 255, 255))`,
+                                      height: `100%`,
+                                      iconSearch: `House`,
+                                      iconSelection: b,
+                                      id: `GxuBJGo8Y`,
+                                      layoutId: `GxuBJGo8Y`,
+                                      mirrored: !1,
+                                      selectByList: !0,
+                                      style: {
+                                        height: `100%`,
+                                        width: `100%`,
+                                      },
+                                      weight: `bold`,
+                                      width: `100%`,
+                                    }),
                                   }),
-                                ],
-                              }),
+                                }),
+                                o(T, {
+                                  __fromCanvasComponent: !0,
+                                  children: o(f, {
+                                    children: o(_.p, {
+                                      className: `framer-styles-preset-1hj8z0a`,
+                                      "data-styles-preset": `UByHkDadJ`,
+                                      style: {
+                                        "--framer-text-color": `var(--extracted-r6o4lv, var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184)))`,
+                                      },
+                                      children: `Responsive design for all devices`,
+                                    }),
+                                  }),
+                                  className: `framer-mhqxnx`,
+                                  fonts: [`Inter`],
+                                  layoutDependency: I,
+                                  layoutId: `wAzeYfK1I`,
+                                  style: {
+                                    "--extracted-r6o4lv": `var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184))`,
+                                    "--framer-link-text-color": `rgb(0, 153, 255)`,
+                                    "--framer-link-text-decoration": `underline`,
+                                  },
+                                  text: x,
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              ],
+                            }),
                             R() &&
-                              u(_.div, {
-                                className: `framer-1xz2qhk`,
-                                "data-framer-name": `Feature`,
-                                layoutDependency: I,
-                                layoutId: `thOpKS1BR`,
-                                children: [
-                                  o(v, {
-                                    children: o(_.div, {
-                                      className: `framer-1b71ty6-container`,
-                                      layoutDependency: I,
-                                      layoutId: `c3iDdl_Sk-container`,
-                                      children: o(V, {
-                                        color: `var(--token-fe8040e6-3344-44c0-bab9-226d490ba5f3, rgb(255, 255, 255))`,
-                                        height: `100%`,
-                                        iconSearch: `House`,
-                                        iconSelection: ee,
-                                        id: `c3iDdl_Sk`,
-                                        layoutId: `c3iDdl_Sk`,
-                                        mirrored: !1,
-                                        selectByList: !0,
-                                        style: {
-                                          height: `100%`,
-                                          width: `100%`,
-                                        },
-                                        weight: `bold`,
-                                        width: `100%`,
-                                      }),
-                                    }),
-                                  }),
-                                  o(T, {
-                                    __fromCanvasComponent: !0,
-                                    children: o(f, {
-                                      children: o(_.p, {
-                                        className: `framer-styles-preset-1hj8z0a`,
-                                        "data-styles-preset": `UByHkDadJ`,
-                                        style: {
-                                          "--framer-text-color": `var(--extracted-r6o4lv, var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184)))`,
-                                        },
-                                        children: `Delivery 3-5 weeks`,
-                                      }),
-                                    }),
-                                    className: `framer-rkmmy`,
-                                    fonts: [`Inter`],
+                            u(_.div, {
+                              className: `framer-1xz2qhk`,
+                              "data-framer-name": `Feature`,
+                              layoutDependency: I,
+                              layoutId: `thOpKS1BR`,
+                              children: [
+                                o(v, {
+                                  children: o(_.div, {
+                                    className: `framer-1b71ty6-container`,
                                     layoutDependency: I,
-                                    layoutId: `YwCGtbMXO`,
-                                    style: {
-                                      "--extracted-r6o4lv": `var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184))`,
-                                      "--framer-link-text-color": `rgb(0, 153, 255)`,
-                                      "--framer-link-text-decoration": `underline`,
-                                    },
-                                    text: S,
-                                    verticalAlignment: `top`,
-                                    withExternalLayout: !0,
+                                    layoutId: `c3iDdl_Sk-container`,
+                                    children: o(V, {
+                                      color: `var(--token-fe8040e6-3344-44c0-bab9-226d490ba5f3, rgb(255, 255, 255))`,
+                                      height: `100%`,
+                                      iconSearch: `House`,
+                                      iconSelection: ee,
+                                      id: `c3iDdl_Sk`,
+                                      layoutId: `c3iDdl_Sk`,
+                                      mirrored: !1,
+                                      selectByList: !0,
+                                      style: {
+                                        height: `100%`,
+                                        width: `100%`,
+                                      },
+                                      weight: `bold`,
+                                      width: `100%`,
+                                    }),
                                   }),
-                                ],
-                              }),
+                                }),
+                                o(T, {
+                                  __fromCanvasComponent: !0,
+                                  children: o(f, {
+                                    children: o(_.p, {
+                                      className: `framer-styles-preset-1hj8z0a`,
+                                      "data-styles-preset": `UByHkDadJ`,
+                                      style: {
+                                        "--framer-text-color": `var(--extracted-r6o4lv, var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184)))`,
+                                      },
+                                      children: `Delivery 3-5 weeks`,
+                                    }),
+                                  }),
+                                  className: `framer-rkmmy`,
+                                  fonts: [`Inter`],
+                                  layoutDependency: I,
+                                  layoutId: `YwCGtbMXO`,
+                                  style: {
+                                    "--extracted-r6o4lv": `var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184))`,
+                                    "--framer-link-text-color": `rgb(0, 153, 255)`,
+                                    "--framer-link-text-decoration": `underline`,
+                                  },
+                                  text: S,
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              ],
+                            }),
                             z() &&
-                              u(_.div, {
-                                className: `framer-1qq2sh3`,
-                                "data-framer-name": `Feature`,
-                                layoutDependency: I,
-                                layoutId: `VE0WxzzeV`,
-                                children: [
-                                  o(v, {
-                                    children: o(_.div, {
-                                      className: `framer-udsqqz-container`,
-                                      layoutDependency: I,
-                                      layoutId: `y2Vo4CuZF-container`,
-                                      children: o(V, {
-                                        color: `var(--token-fe8040e6-3344-44c0-bab9-226d490ba5f3, rgb(255, 255, 255))`,
-                                        height: `100%`,
-                                        iconSearch: `House`,
-                                        iconSelection: C,
-                                        id: `y2Vo4CuZF`,
-                                        layoutId: `y2Vo4CuZF`,
-                                        mirrored: !1,
-                                        selectByList: !0,
-                                        style: {
-                                          height: `100%`,
-                                          width: `100%`,
-                                        },
-                                        weight: `bold`,
-                                        width: `100%`,
-                                      }),
-                                    }),
-                                  }),
-                                  o(T, {
-                                    __fromCanvasComponent: !0,
-                                    children: o(f, {
-                                      children: o(_.p, {
-                                        className: `framer-styles-preset-1hj8z0a`,
-                                        "data-styles-preset": `UByHkDadJ`,
-                                        style: {
-                                          "--framer-text-color": `var(--extracted-r6o4lv, var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184)))`,
-                                        },
-                                        children: `Delivery 3-5 weeks`,
-                                      }),
-                                    }),
-                                    className: `framer-qjdck1`,
-                                    fonts: [`Inter`],
+                            u(_.div, {
+                              className: `framer-1qq2sh3`,
+                              "data-framer-name": `Feature`,
+                              layoutDependency: I,
+                              layoutId: `VE0WxzzeV`,
+                              children: [
+                                o(v, {
+                                  children: o(_.div, {
+                                    className: `framer-udsqqz-container`,
                                     layoutDependency: I,
-                                    layoutId: `Yoh0KPRx0`,
-                                    style: {
-                                      "--extracted-r6o4lv": `var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184))`,
-                                      "--framer-link-text-color": `rgb(0, 153, 255)`,
-                                      "--framer-link-text-decoration": `underline`,
-                                    },
-                                    text: te,
-                                    verticalAlignment: `top`,
-                                    withExternalLayout: !0,
+                                    layoutId: `y2Vo4CuZF-container`,
+                                    children: o(V, {
+                                      color: `var(--token-fe8040e6-3344-44c0-bab9-226d490ba5f3, rgb(255, 255, 255))`,
+                                      height: `100%`,
+                                      iconSearch: `House`,
+                                      iconSelection: C,
+                                      id: `y2Vo4CuZF`,
+                                      layoutId: `y2Vo4CuZF`,
+                                      mirrored: !1,
+                                      selectByList: !0,
+                                      style: {
+                                        height: `100%`,
+                                        width: `100%`,
+                                      },
+                                      weight: `bold`,
+                                      width: `100%`,
+                                    }),
                                   }),
-                                ],
-                              }),
+                                }),
+                                o(T, {
+                                  __fromCanvasComponent: !0,
+                                  children: o(f, {
+                                    children: o(_.p, {
+                                      className: `framer-styles-preset-1hj8z0a`,
+                                      "data-styles-preset": `UByHkDadJ`,
+                                      style: {
+                                        "--framer-text-color": `var(--extracted-r6o4lv, var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184)))`,
+                                      },
+                                      children: `Delivery 3-5 weeks`,
+                                    }),
+                                  }),
+                                  className: `framer-qjdck1`,
+                                  fonts: [`Inter`],
+                                  layoutDependency: I,
+                                  layoutId: `Yoh0KPRx0`,
+                                  style: {
+                                    "--extracted-r6o4lv": `var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184))`,
+                                    "--framer-link-text-color": `rgb(0, 153, 255)`,
+                                    "--framer-link-text-decoration": `underline`,
+                                  },
+                                  text: te,
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              ],
+                            }),
                             B() &&
-                              u(_.div, {
-                                className: `framer-bwem4s`,
-                                "data-framer-name": `Feature`,
-                                layoutDependency: I,
-                                layoutId: `tgpDxq3wJ`,
-                                children: [
-                                  o(v, {
-                                    children: o(_.div, {
-                                      className: `framer-z15z1j-container`,
-                                      layoutDependency: I,
-                                      layoutId: `GIrcRWYUQ-container`,
-                                      children: o(V, {
-                                        color: `var(--token-fe8040e6-3344-44c0-bab9-226d490ba5f3, rgb(255, 255, 255))`,
-                                        height: `100%`,
-                                        iconSearch: `House`,
-                                        iconSelection: w,
-                                        id: `GIrcRWYUQ`,
-                                        layoutId: `GIrcRWYUQ`,
-                                        mirrored: !1,
-                                        selectByList: !0,
-                                        style: {
-                                          height: `100%`,
-                                          width: `100%`,
-                                        },
-                                        weight: `bold`,
-                                        width: `100%`,
-                                      }),
-                                    }),
-                                  }),
-                                  o(T, {
-                                    __fromCanvasComponent: !0,
-                                    children: o(f, {
-                                      children: o(_.p, {
-                                        className: `framer-styles-preset-1hj8z0a`,
-                                        "data-styles-preset": `UByHkDadJ`,
-                                        style: {
-                                          "--framer-text-color": `var(--extracted-r6o4lv, var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184)))`,
-                                        },
-                                        children: `Delivery 3-5 weeks`,
-                                      }),
-                                    }),
-                                    className: `framer-qgpvy5`,
-                                    fonts: [`Inter`],
+                            u(_.div, {
+                              className: `framer-bwem4s`,
+                              "data-framer-name": `Feature`,
+                              layoutDependency: I,
+                              layoutId: `tgpDxq3wJ`,
+                              children: [
+                                o(v, {
+                                  children: o(_.div, {
+                                    className: `framer-z15z1j-container`,
                                     layoutDependency: I,
-                                    layoutId: `EfxCGXtm3`,
-                                    style: {
-                                      "--extracted-r6o4lv": `var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184))`,
-                                      "--framer-link-text-color": `rgb(0, 153, 255)`,
-                                      "--framer-link-text-decoration": `underline`,
-                                    },
-                                    text: ne,
-                                    verticalAlignment: `top`,
-                                    withExternalLayout: !0,
+                                    layoutId: `GIrcRWYUQ-container`,
+                                    children: o(V, {
+                                      color: `var(--token-fe8040e6-3344-44c0-bab9-226d490ba5f3, rgb(255, 255, 255))`,
+                                      height: `100%`,
+                                      iconSearch: `House`,
+                                      iconSelection: w,
+                                      id: `GIrcRWYUQ`,
+                                      layoutId: `GIrcRWYUQ`,
+                                      mirrored: !1,
+                                      selectByList: !0,
+                                      style: {
+                                        height: `100%`,
+                                        width: `100%`,
+                                      },
+                                      weight: `bold`,
+                                      width: `100%`,
+                                    }),
                                   }),
-                                ],
-                              }),
+                                }),
+                                o(T, {
+                                  __fromCanvasComponent: !0,
+                                  children: o(f, {
+                                    children: o(_.p, {
+                                      className: `framer-styles-preset-1hj8z0a`,
+                                      "data-styles-preset": `UByHkDadJ`,
+                                      style: {
+                                        "--framer-text-color": `var(--extracted-r6o4lv, var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184)))`,
+                                      },
+                                      children: `Delivery 3-5 weeks`,
+                                    }),
+                                  }),
+                                  className: `framer-qgpvy5`,
+                                  fonts: [`Inter`],
+                                  layoutDependency: I,
+                                  layoutId: `EfxCGXtm3`,
+                                  style: {
+                                    "--extracted-r6o4lv": `var(--token-69917ee8-fdc7-4c8a-9069-21fd1bc15e8c, rgb(184, 184, 184))`,
+                                    "--framer-link-text-color": `rgb(0, 153, 255)`,
+                                    "--framer-link-text-decoration": `underline`,
+                                  },
+                                  text: ne,
+                                  verticalAlignment: `top`,
+                                  withExternalLayout: !0,
+                                }),
+                              ],
+                            }),
                           ],
                         }),
                       ],
@@ -1767,10 +1767,10 @@ var kt,
         JXpDc87xl: e ?? s.JXpDc87xl ?? `Company`,
         uQIQpMBWo: i ??
           s.uQIQpMBWo ?? {
-            pixelHeight: 40,
-            pixelWidth: 60,
-            src: `https://framerusercontent.com/images/fpMLqxLzsy1BP0flFtd3Z7RSrrM.png`,
-          },
+          pixelHeight: 40,
+          pixelWidth: 60,
+          src: `https://framerusercontent.com/images/fpMLqxLzsy1BP0flFtd3Z7RSrrM.png`,
+        },
         VVKAV17oz: a ?? s.VVKAV17oz ?? `Product Designer (2024 - 2025)`,
       })),
       (cn = (e, t) =>
@@ -1843,8 +1843,8 @@ var kt,
                       fit: `fit`,
                       loading: j(
                         (d?.y || 0) +
-                          0 +
-                          (((d?.height || 193) - 0 - 338.6) / 2 + 0 + 0),
+                        0 +
+                        (((d?.height || 193) - 0 - 338.6) / 2 + 0 + 0),
                       ),
                       pixelHeight: 40,
                       pixelWidth: 60,
@@ -2298,10 +2298,10 @@ var kt,
                             intrinsicWidth: 42,
                             loading: j(
                               (N?.y || 0) +
-                                (0 + ((N?.height || 80) - 0 - 80) / 2) +
-                                1 +
-                                0 +
-                                21.5,
+                              (0 + ((N?.height || 80) - 0 - 80) / 2) +
+                              1 +
+                              0 +
+                              21.5,
                             ),
                             pixelHeight: 70,
                             pixelWidth: 84,
@@ -2741,9 +2741,9 @@ var Un,
         hz_kOG1gC: a ?? l.hz_kOG1gC,
         is_FsKXl9: i ??
           l.is_FsKXl9 ?? {
-            src: `https://framerusercontent.com/images/F72wip5ZrB7QvmSiwqFViRYw2Xk.jpg?scale-down-to=1024`,
-            srcSet: `https://framerusercontent.com/images/F72wip5ZrB7QvmSiwqFViRYw2Xk.jpg?scale-down-to=512 512w,https://framerusercontent.com/images/F72wip5ZrB7QvmSiwqFViRYw2Xk.jpg?scale-down-to=1024 1024w,https://framerusercontent.com/images/F72wip5ZrB7QvmSiwqFViRYw2Xk.jpg?scale-down-to=2048 2048w,https://framerusercontent.com/images/F72wip5ZrB7QvmSiwqFViRYw2Xk.jpg 3200w`,
-          },
+          src: `https://framerusercontent.com/images/F72wip5ZrB7QvmSiwqFViRYw2Xk.jpg?scale-down-to=1024`,
+          srcSet: `https://framerusercontent.com/images/F72wip5ZrB7QvmSiwqFViRYw2Xk.jpg?scale-down-to=512 512w,https://framerusercontent.com/images/F72wip5ZrB7QvmSiwqFViRYw2Xk.jpg?scale-down-to=1024 1024w,https://framerusercontent.com/images/F72wip5ZrB7QvmSiwqFViRYw2Xk.jpg?scale-down-to=2048 2048w,https://framerusercontent.com/images/F72wip5ZrB7QvmSiwqFViRYw2Xk.jpg 3200w`,
+        },
         k_atTtS3d: e ?? l.k_atTtS3d ?? `XYZ Org`,
         qmg8PgYYO: c ?? l.qmg8PgYYO ?? `2024`,
         uXcHu2Q7I: o ?? l.uXcHu2Q7I ?? `Project Description`,
@@ -3499,9 +3499,9 @@ var Un,
         return t
           ? null
           : o(`style`, {
-              dangerouslySetInnerHTML: { __html: e },
-              "data-framer-html-style": ``,
-            });
+            dangerouslySetInnerHTML: { __html: e },
+            "data-framer-html-style": ``,
+          });
       }),
       (Ur = { Desktop: `fF_GmQCqW`, Phone: `yPVcpR5st`, Tablet: `mExYMsC3z` }),
       (Wr = ({ height: e, id: t, width: n, ...r }) => ({
@@ -3551,127 +3551,127 @@ var Un,
                   style: { ...h },
                   children: [
                     M() &&
-                      u(`nav`, {
-                        className: `framer-13f8jmi hidden-8zatfj hidden-jgmhwn`,
-                        "data-framer-name": `Navigation Bar`,
-                        children: [
-                          o(v, {
-                            height: 21,
-                            y: 24,
-                            children: o(y, {
-                              className: `framer-efsv5k-container`,
-                              nodeId: `GMYVza7TT`,
-                              scopeId: `dqkkaMW66`,
-                              children: o(ce, {
-                                height: `100%`,
-                                id: `GMYVza7TT`,
-                                layoutId: `GMYVza7TT`,
-                                width: `100%`,
-                              }),
+                    u(`nav`, {
+                      className: `framer-13f8jmi hidden-8zatfj hidden-jgmhwn`,
+                      "data-framer-name": `Navigation Bar`,
+                      children: [
+                        o(v, {
+                          height: 21,
+                          y: 24,
+                          children: o(y, {
+                            className: `framer-efsv5k-container`,
+                            nodeId: `GMYVza7TT`,
+                            scopeId: `dqkkaMW66`,
+                            children: o(ce, {
+                              height: `100%`,
+                              id: `GMYVza7TT`,
+                              layoutId: `GMYVza7TT`,
+                              width: `100%`,
                             }),
                           }),
-                          o(v, {
-                            height: 152,
-                            width: `170px`,
-                            y: 272,
-                            children: o(y, {
-                              className: `framer-lyhsrm-container`,
-                              nodeId: `itXrAWqux`,
-                              scopeId: `dqkkaMW66`,
-                              children: o(We, {
-                                byYz6kAdZ: L,
-                                DbuD1ambb: R,
-                                eGJs65QKf: z,
-                                EryqZVbLj: N,
-                                height: `100%`,
-                                hKcXZjqvV: F,
-                                id: `itXrAWqux`,
-                                kvjLtikhK: R,
-                                layoutId: `itXrAWqux`,
-                                nhu8e9_du: B,
-                                OLhY28BDj: L,
-                                style: { width: `100%` },
-                                variant: `GaVMMJEm5`,
-                                width: `100%`,
-                                zHPtcLx2r: F,
-                              }),
+                        }),
+                        o(v, {
+                          height: 152,
+                          width: `170px`,
+                          y: 272,
+                          children: o(y, {
+                            className: `framer-lyhsrm-container`,
+                            nodeId: `itXrAWqux`,
+                            scopeId: `dqkkaMW66`,
+                            children: o(We, {
+                              byYz6kAdZ: L,
+                              DbuD1ambb: R,
+                              eGJs65QKf: z,
+                              EryqZVbLj: N,
+                              height: `100%`,
+                              hKcXZjqvV: F,
+                              id: `itXrAWqux`,
+                              kvjLtikhK: R,
+                              layoutId: `itXrAWqux`,
+                              nhu8e9_du: B,
+                              OLhY28BDj: L,
+                              style: { width: `100%` },
+                              variant: `GaVMMJEm5`,
+                              width: `100%`,
+                              zHPtcLx2r: F,
                             }),
                           }),
-                          o(w, {
-                            links: [
-                              {
-                                href: { webPageId: `skCBjGGGU` },
-                                implicitPathVariables: void 0,
-                              },
-                            ],
-                            children: (e) =>
-                              o(v, {
-                                height: 55,
-                                y: 905,
-                                children: o(fr, {
-                                  __framer__animate: { transition: Or },
-                                  __framer__animateOnce: !1,
-                                  __framer__enter: Dr,
-                                  __framer__styleAppearEffectEnabled: !0,
-                                  __framer__styleTransformEffectEnabled: !0,
-                                  __framer__targets: [
-                                    { offset: 80, ref: F, target: `animate` },
-                                  ],
-                                  __framer__threshold: 0.5,
-                                  __framer__transformTargets: [
-                                    {
-                                      target: {
-                                        opacity: 1,
-                                        rotate: 0,
-                                        rotateX: 0,
-                                        rotateY: 0,
-                                        scale: 1,
-                                        skewX: 0,
-                                        skewY: 0,
-                                        x: 0,
-                                        y: 0,
-                                      },
+                        }),
+                        o(w, {
+                          links: [
+                            {
+                              href: { webPageId: `skCBjGGGU` },
+                              implicitPathVariables: void 0,
+                            },
+                          ],
+                          children: (e) =>
+                            o(v, {
+                              height: 55,
+                              y: 905,
+                              children: o(fr, {
+                                __framer__animate: { transition: Or },
+                                __framer__animateOnce: !1,
+                                __framer__enter: Dr,
+                                __framer__styleAppearEffectEnabled: !0,
+                                __framer__styleTransformEffectEnabled: !0,
+                                __framer__targets: [
+                                  { offset: 80, ref: F, target: `animate` },
+                                ],
+                                __framer__threshold: 0.5,
+                                __framer__transformTargets: [
+                                  {
+                                    target: {
+                                      opacity: 1,
+                                      rotate: 0,
+                                      rotateX: 0,
+                                      rotateY: 0,
+                                      scale: 1,
+                                      skewX: 0,
+                                      skewY: 0,
+                                      x: 0,
+                                      y: 0,
                                     },
-                                    {
-                                      offset: 80,
-                                      ref: B,
-                                      target: {
-                                        opacity: 0,
-                                        rotate: 0,
-                                        rotateX: 0,
-                                        rotateY: 0,
-                                        scale: 1,
-                                        skewX: 0,
-                                        skewY: 0,
-                                        x: 0,
-                                        y: 0,
-                                      },
+                                  },
+                                  {
+                                    offset: 80,
+                                    ref: B,
+                                    target: {
+                                      opacity: 0,
+                                      rotate: 0,
+                                      rotateX: 0,
+                                      rotateY: 0,
+                                      scale: 1,
+                                      skewX: 0,
+                                      skewY: 0,
+                                      x: 0,
+                                      y: 0,
                                     },
-                                  ],
-                                  __framer__transformTrigger: `onScrollTarget`,
-                                  __framer__transformViewportThreshold: 1,
-                                  __perspectiveFX: !1,
-                                  __targetOpacity: 1,
-                                  className: `framer-6onqyb-container`,
-                                  nodeId: `KyUbAdLY9`,
-                                  rendersWithMotion: !0,
-                                  scopeId: `dqkkaMW66`,
-                                  whileHover: Ar,
-                                  children: o(ue, {
-                                    B0eTuUnrS: e[0],
-                                    FOxcLjTdx: `Get in touch`,
-                                    height: `100%`,
-                                    id: `KyUbAdLY9`,
-                                    layoutId: `KyUbAdLY9`,
-                                    style: { height: `100%` },
-                                    variant: `CnFfN8KTT`,
-                                    width: `100%`,
-                                  }),
+                                  },
+                                ],
+                                __framer__transformTrigger: `onScrollTarget`,
+                                __framer__transformViewportThreshold: 1,
+                                __perspectiveFX: !1,
+                                __targetOpacity: 1,
+                                className: `framer-6onqyb-container`,
+                                nodeId: `KyUbAdLY9`,
+                                rendersWithMotion: !0,
+                                scopeId: `dqkkaMW66`,
+                                whileHover: Ar,
+                                children: o(ue, {
+                                  B0eTuUnrS: e[0],
+                                  FOxcLjTdx: `Get in touch`,
+                                  height: `100%`,
+                                  id: `KyUbAdLY9`,
+                                  layoutId: `KyUbAdLY9`,
+                                  style: { height: `100%` },
+                                  variant: `CnFfN8KTT`,
+                                  width: `100%`,
                                 }),
                               }),
-                          }),
-                        ],
-                      }),
+                            }),
+                        }),
+                      ],
+                    }),
                     o(`section`, {
                       className: `framer-yxgzjr`,
                       "data-framer-name": `Hero`,
@@ -3767,9 +3767,8 @@ var Un,
                                       breakpoint: E,
                                       overrides: {
                                         yPVcpR5st: {
-                                          width: `min(${
-                                            p?.width || `100vw`
-                                          } - 32px, 1200px)`,
+                                          width: `min(${p?.width || `100vw`
+                                            } - 32px, 1200px)`,
                                           y:
                                             (p?.y || 0) +
                                             0 +
@@ -3867,9 +3866,8 @@ var Un,
                                       breakpoint: E,
                                       overrides: {
                                         yPVcpR5st: {
-                                          width: `min(${
-                                            p?.width || `100vw`
-                                          } - 32px, 1200px)`,
+                                          width: `min(${p?.width || `100vw`
+                                            } - 32px, 1200px)`,
                                           y:
                                             (p?.y || 0) +
                                             0 +
@@ -4003,24 +4001,21 @@ var Un,
                               breakpoint: E,
                               overrides: {
                                 mExYMsC3z: {
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 80px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 80px, 1200px)`,
                                   y: (p?.y || 0) + 0 + 758.75 + 0 + 0,
                                 },
                                 yPVcpR5st: {
                                   height: 640,
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 32px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 32px, 1200px)`,
                                   y: (p?.y || 0) + 0 + 298 + 0 + 0,
                                 },
                               },
                               children: o(v, {
                                 height: 800,
-                                width: `calc(min(${
-                                  p?.width || `100vw`
-                                } - 280px, 1200px) - 80px)`,
+                                width: `calc(min(${p?.width || `100vw`
+                                  } - 280px, 1200px) - 80px)`,
                                 y: (p?.y || 0) + 0 + 818.75 + 0 + 0,
                                 children: o(C, {
                                   breakpoint: E,
@@ -4137,24 +4132,21 @@ var Un,
                               breakpoint: E,
                               overrides: {
                                 mExYMsC3z: {
-                                  width: `calc(min(${
-                                    p?.width || `100vw`
-                                  } - 80px, 1200px) * 1.02)`,
+                                  width: `calc(min(${p?.width || `100vw`
+                                    } - 80px, 1200px) * 1.02)`,
                                   y: (p?.y || 0) + 0 + 758.75 + 0 + 1040,
                                 },
                                 yPVcpR5st: {
                                   height: 640,
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 32px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 32px, 1200px)`,
                                   y: (p?.y || 0) + 0 + 298 + 0 + 704,
                                 },
                               },
                               children: o(v, {
                                 height: 800,
-                                width: `calc((min(${
-                                  p?.width || `100vw`
-                                } - 280px, 1200px) - 80px) * 1.02)`,
+                                width: `calc((min(${p?.width || `100vw`
+                                  } - 280px, 1200px) - 80px) * 1.02)`,
                                 y: (p?.y || 0) + 0 + 818.75 + 0 + 1040,
                                 children: o(C, {
                                   breakpoint: E,
@@ -4271,24 +4263,21 @@ var Un,
                               breakpoint: E,
                               overrides: {
                                 mExYMsC3z: {
-                                  width: `calc(min(${
-                                    p?.width || `100vw`
-                                  } - 80px, 1200px) * 1.04)`,
+                                  width: `calc(min(${p?.width || `100vw`
+                                    } - 80px, 1200px) * 1.04)`,
                                   y: (p?.y || 0) + 0 + 758.75 + 0 + 2080,
                                 },
                                 yPVcpR5st: {
                                   height: 640,
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 32px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 32px, 1200px)`,
                                   y: (p?.y || 0) + 0 + 298 + 0 + 1408,
                                 },
                               },
                               children: o(v, {
                                 height: 800,
-                                width: `calc((min(${
-                                  p?.width || `100vw`
-                                } - 280px, 1200px) - 80px) * 1.04)`,
+                                width: `calc((min(${p?.width || `100vw`
+                                  } - 280px, 1200px) - 80px) * 1.04)`,
                                 y: (p?.y || 0) + 0 + 818.75 + 0 + 2080,
                                 children: o(C, {
                                   breakpoint: E,
@@ -4405,24 +4394,21 @@ var Un,
                               breakpoint: E,
                               overrides: {
                                 mExYMsC3z: {
-                                  width: `calc(min(${
-                                    p?.width || `100vw`
-                                  } - 80px, 1200px) * 1.06)`,
+                                  width: `calc(min(${p?.width || `100vw`
+                                    } - 80px, 1200px) * 1.06)`,
                                   y: (p?.y || 0) + 0 + 758.75 + 0 + 3120,
                                 },
                                 yPVcpR5st: {
                                   height: 640,
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 32px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 32px, 1200px)`,
                                   y: (p?.y || 0) + 0 + 298 + 0 + 2112,
                                 },
                               },
                               children: o(v, {
                                 height: 800,
-                                width: `calc((min(${
-                                  p?.width || `100vw`
-                                } - 280px, 1200px) - 80px) * 1.06)`,
+                                width: `calc((min(${p?.width || `100vw`
+                                  } - 280px, 1200px) - 80px) * 1.06)`,
                                 y: (p?.y || 0) + 0 + 818.75 + 0 + 3120,
                                 children: o(C, {
                                   breakpoint: E,
@@ -4539,24 +4525,21 @@ var Un,
                               breakpoint: E,
                               overrides: {
                                 mExYMsC3z: {
-                                  width: `calc(min(${
-                                    p?.width || `100vw`
-                                  } - 80px, 1200px) * 1.06)`,
+                                  width: `calc(min(${p?.width || `100vw`
+                                    } - 80px, 1200px) * 1.06)`,
                                   y: (p?.y || 0) + 0 + 758.75 + 0 + 3120,
                                 },
                                 yPVcpR5st: {
                                   height: 640,
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 32px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 32px, 1200px)`,
                                   y: (p?.y || 0) + 0 + 298 + 0 + 2112,
                                 },
                               },
                               children: o(v, {
                                 height: 800,
-                                width: `calc((min(${
-                                  p?.width || `100vw`
-                                } - 280px, 1200px) - 80px) * 1.06)`,
+                                width: `calc((min(${p?.width || `100vw`
+                                  } - 280px, 1200px) - 80px) * 1.06)`,
                                 y: (p?.y || 0) + 0 + 818.75 + 0 + 3120,
                                 children: o(C, {
                                   breakpoint: E,
@@ -4673,24 +4656,21 @@ var Un,
                               breakpoint: E,
                               overrides: {
                                 mExYMsC3z: {
-                                  width: `calc(min(${
-                                    p?.width || `100vw`
-                                  } - 80px, 1200px) * 1.06)`,
+                                  width: `calc(min(${p?.width || `100vw`
+                                    } - 80px, 1200px) * 1.06)`,
                                   y: (p?.y || 0) + 0 + 758.75 + 0 + 3120,
                                 },
                                 yPVcpR5st: {
                                   height: 640,
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 32px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 32px, 1200px)`,
                                   y: (p?.y || 0) + 0 + 298 + 0 + 2112,
                                 },
                               },
                               children: o(v, {
                                 height: 800,
-                                width: `calc((min(${
-                                  p?.width || `100vw`
-                                } - 280px, 1200px) - 80px) * 1.06)`,
+                                width: `calc((min(${p?.width || `100vw`
+                                  } - 280px, 1200px) - 80px) * 1.06)`,
                                 y: (p?.y || 0) + 0 + 818.75 + 0 + 3120,
                                 children: o(C, {
                                   breakpoint: E,
@@ -4796,9 +4776,8 @@ var Un,
                               breakpoint: E,
                               overrides: {
                                 mExYMsC3z: {
-                                  width: `calc(min(${
-                                    p?.width || `100vw`
-                                  } - 80px, 1200px) * 0.9)`,
+                                  width: `calc(min(${p?.width || `100vw`
+                                    } - 80px, 1200px) * 0.9)`,
                                   y:
                                     (p?.y || 0) +
                                     0 +
@@ -4809,17 +4788,15 @@ var Un,
                                     0,
                                 },
                                 yPVcpR5st: {
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 32px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 32px, 1200px)`,
                                   y: (p?.y || 0) + 0 + 3130 + 0 + 90.4 + 0 + 0,
                                 },
                               },
                               children: o(v, {
                                 height: 193,
-                                width: `calc(min(${
-                                  p?.width || `100vw`
-                                } - 280px, 1200px) * 0.9)`,
+                                width: `calc(min(${p?.width || `100vw`
+                                  } - 280px, 1200px) * 0.9)`,
                                 y: (p?.y || 0) + 0 + 4918.75 + 0 + 90.4 + 0 + 0,
                                 children: o(y, {
                                   className: `framer-19cy0q2-container`,
@@ -4851,9 +4828,8 @@ var Un,
                               breakpoint: E,
                               overrides: {
                                 mExYMsC3z: {
-                                  width: `calc(min(${
-                                    p?.width || `100vw`
-                                  } - 80px, 1200px) * 0.9)`,
+                                  width: `calc(min(${p?.width || `100vw`
+                                    } - 80px, 1200px) * 0.9)`,
                                   y:
                                     (p?.y || 0) +
                                     0 +
@@ -4864,18 +4840,16 @@ var Un,
                                     257,
                                 },
                                 yPVcpR5st: {
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 32px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 32px, 1200px)`,
                                   y:
                                     (p?.y || 0) + 0 + 3130 + 0 + 90.4 + 0 + 257,
                                 },
                               },
                               children: o(v, {
                                 height: 193,
-                                width: `calc(min(${
-                                  p?.width || `100vw`
-                                } - 280px, 1200px) * 0.9)`,
+                                width: `calc(min(${p?.width || `100vw`
+                                  } - 280px, 1200px) * 0.9)`,
                                 y:
                                   (p?.y || 0) +
                                   0 +
@@ -4914,9 +4888,8 @@ var Un,
                               breakpoint: E,
                               overrides: {
                                 mExYMsC3z: {
-                                  width: `calc(min(${
-                                    p?.width || `100vw`
-                                  } - 80px, 1200px) * 0.9)`,
+                                  width: `calc(min(${p?.width || `100vw`
+                                    } - 80px, 1200px) * 0.9)`,
                                   y:
                                     (p?.y || 0) +
                                     0 +
@@ -4927,18 +4900,16 @@ var Un,
                                     514,
                                 },
                                 yPVcpR5st: {
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 32px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 32px, 1200px)`,
                                   y:
                                     (p?.y || 0) + 0 + 3130 + 0 + 90.4 + 0 + 514,
                                 },
                               },
                               children: o(v, {
                                 height: 193,
-                                width: `calc(min(${
-                                  p?.width || `100vw`
-                                } - 280px, 1200px) * 0.9)`,
+                                width: `calc(min(${p?.width || `100vw`
+                                  } - 280px, 1200px) * 0.9)`,
                                 y:
                                   (p?.y || 0) +
                                   0 +
@@ -4976,9 +4947,8 @@ var Un,
                               breakpoint: E,
                               overrides: {
                                 mExYMsC3z: {
-                                  width: `calc(min(${
-                                    p?.width || `100vw`
-                                  } - 80px, 1200px) * 0.9)`,
+                                  width: `calc(min(${p?.width || `100vw`
+                                    } - 80px, 1200px) * 0.9)`,
                                   y:
                                     (p?.y || 0) +
                                     0 +
@@ -4989,18 +4959,16 @@ var Un,
                                     257,
                                 },
                                 yPVcpR5st: {
-                                  width: `min(${
-                                    p?.width || `100vw`
-                                  } - 32px, 1200px)`,
+                                  width: `min(${p?.width || `100vw`
+                                    } - 32px, 1200px)`,
                                   y:
                                     (p?.y || 0) + 0 + 3130 + 0 + 90.4 + 0 + 257,
                                 },
                               },
                               children: o(v, {
                                 height: 193,
-                                width: `calc(min(${
-                                  p?.width || `100vw`
-                                } - 280px, 1200px) * 0.9)`,
+                                width: `calc(min(${p?.width || `100vw`
+                                  } - 280px, 1200px) * 0.9)`,
                                 y:
                                   (p?.y || 0) +
                                   0 +
@@ -5083,9 +5051,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5098,9 +5065,8 @@ var Un,
                                         0,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5115,9 +5081,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5149,9 +5114,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5164,9 +5128,8 @@ var Un,
                                         0,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5181,9 +5144,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5215,9 +5177,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5230,9 +5191,8 @@ var Un,
                                         104,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5247,9 +5207,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5281,9 +5240,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5296,9 +5254,8 @@ var Un,
                                         104,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5313,9 +5270,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5347,9 +5303,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5362,9 +5317,8 @@ var Un,
                                         208,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5379,9 +5333,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5413,9 +5366,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5428,9 +5380,8 @@ var Un,
                                         208,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5445,9 +5396,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5479,9 +5429,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5494,9 +5443,8 @@ var Un,
                                         208,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5511,9 +5459,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5545,9 +5492,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5560,9 +5506,8 @@ var Un,
                                         208,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5577,9 +5522,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5611,9 +5555,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5626,9 +5569,8 @@ var Un,
                                         208,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5643,9 +5585,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5715,9 +5656,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5730,9 +5670,8 @@ var Un,
                                         0,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5747,9 +5686,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5788,9 +5726,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5803,9 +5740,8 @@ var Un,
                                         0,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5820,9 +5756,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5861,9 +5796,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5876,9 +5810,8 @@ var Un,
                                         104,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5893,9 +5826,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -5934,9 +5866,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5949,9 +5880,8 @@ var Un,
                                         104,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -5966,9 +5896,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -6007,9 +5936,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -6022,9 +5950,8 @@ var Un,
                                         208,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -6039,9 +5966,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -6080,9 +6006,8 @@ var Un,
                                   breakpoint: E,
                                   overrides: {
                                     mExYMsC3z: {
-                                      width: `max((min(${
-                                        p?.width || `100vw`
-                                      } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -6095,9 +6020,8 @@ var Un,
                                         208,
                                     },
                                     yPVcpR5st: {
-                                      width: `max(min(${
-                                        p?.width || `100vw`
-                                      } - 32px, 1200px), 50px)`,
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
                                       y:
                                         (p?.y || 0) +
                                         0 +
@@ -6112,9 +6036,8 @@ var Un,
                                   },
                                   children: o(v, {
                                     height: 80,
-                                    width: `max((min(${
-                                      p?.width || `100vw`
-                                    } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
                                     y:
                                       (p?.y || 0) +
                                       0 +
@@ -6270,9 +6193,8 @@ var Un,
                                       breakpoint: E,
                                       overrides: {
                                         mExYMsC3z: {
-                                          width: `max((min(min(${
-                                            p?.width || `100vw`
-                                          } - 80px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
+                                          width: `max((min(min(${p?.width || `100vw`
+                                            } - 80px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
                                           y:
                                             (p?.y || 0) +
                                             0 +
@@ -6288,9 +6210,8 @@ var Un,
                                             57.6,
                                         },
                                         yPVcpR5st: {
-                                          width: `min(${
-                                            p?.width || `100vw`
-                                          } - 32px, 1200px)`,
+                                          width: `min(${p?.width || `100vw`
+                                            } - 32px, 1200px)`,
                                           y:
                                             (p?.y || 0) +
                                             0 +
@@ -6309,9 +6230,8 @@ var Un,
                                       },
                                       children: o(v, {
                                         height: 118,
-                                        width: `max((min(min(${
-                                          p?.width || `100vw`
-                                        } - 280px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
+                                        width: `max((min(min(${p?.width || `100vw`
+                                          } - 280px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
                                         y:
                                           (p?.y || 0) +
                                           0 +
@@ -6382,9 +6302,8 @@ var Un,
                                       breakpoint: E,
                                       overrides: {
                                         mExYMsC3z: {
-                                          width: `max((min(min(${
-                                            p?.width || `100vw`
-                                          } - 80px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
+                                          width: `max((min(min(${p?.width || `100vw`
+                                            } - 80px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
                                           y:
                                             (p?.y || 0) +
                                             0 +
@@ -6400,9 +6319,8 @@ var Un,
                                             257.2,
                                         },
                                         yPVcpR5st: {
-                                          width: `min(${
-                                            p?.width || `100vw`
-                                          } - 32px, 1200px)`,
+                                          width: `min(${p?.width || `100vw`
+                                            } - 32px, 1200px)`,
                                           y:
                                             (p?.y || 0) +
                                             0 +
@@ -6421,9 +6339,8 @@ var Un,
                                       },
                                       children: o(v, {
                                         height: 118,
-                                        width: `max((min(min(${
-                                          p?.width || `100vw`
-                                        } - 280px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
+                                        width: `max((min(min(${p?.width || `100vw`
+                                          } - 280px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
                                         y:
                                           (p?.y || 0) +
                                           0 +
@@ -6468,9 +6385,8 @@ var Un,
                                       breakpoint: E,
                                       overrides: {
                                         mExYMsC3z: {
-                                          width: `max((min(min(${
-                                            p?.width || `100vw`
-                                          } - 80px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
+                                          width: `max((min(min(${p?.width || `100vw`
+                                            } - 80px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
                                           y:
                                             (p?.y || 0) +
                                             0 +
@@ -6486,9 +6402,8 @@ var Un,
                                             399.2,
                                         },
                                         yPVcpR5st: {
-                                          width: `min(${
-                                            p?.width || `100vw`
-                                          } - 32px, 1200px)`,
+                                          width: `min(${p?.width || `100vw`
+                                            } - 32px, 1200px)`,
                                           y:
                                             (p?.y || 0) +
                                             0 +
@@ -6507,9 +6422,8 @@ var Un,
                                       },
                                       children: o(v, {
                                         height: 118,
-                                        width: `max((min(min(${
-                                          p?.width || `100vw`
-                                        } - 280px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
+                                        width: `max((min(min(${p?.width || `100vw`
+                                          } - 280px, 1200px) * 0.9, 1200px) - 40px) * 0.5238, 1px)`,
                                         y:
                                           (p?.y || 0) +
                                           0 +
@@ -6588,9 +6502,8 @@ var Un,
                                             0,
                                         },
                                         yPVcpR5st: {
-                                          width: `min(${
-                                            p?.width || `100vw`
-                                          } - 32px, 1200px)`,
+                                          width: `min(${p?.width || `100vw`
+                                            } - 32px, 1200px)`,
                                           y:
                                             (p?.y || 0) +
                                             0 +
@@ -6748,19 +6661,18 @@ var Un,
                                         fit: `fill`,
                                         loading: j(
                                           (p?.y || 0) +
-                                            0 +
-                                            6992.95 +
-                                            0 +
-                                            0 +
-                                            0 +
-                                            0 +
-                                            2,
+                                          0 +
+                                          6992.95 +
+                                          0 +
+                                          0 +
+                                          0 +
+                                          0 +
+                                          2,
                                         ),
                                         pixelHeight: 4032,
                                         pixelWidth: 3024,
-                                        sizes: `max(max(max((min(min(${
-                                          p?.width || `100vw`
-                                        } - 80px, 1200px) * 0.9, 1200px) - 40px) / 2.1, 1px) * 1, 1px) - 4px, 1px)`,
+                                        sizes: `max(max(max((min(min(${p?.width || `100vw`
+                                          } - 80px, 1200px) * 0.9, 1200px) - 40px) / 2.1, 1px) * 1, 1px) - 4px, 1px)`,
                                         src: `./images/sanoob.png`,
                                         srcSet: `./images/sanoob.png`,
                                       },
@@ -6771,20 +6683,19 @@ var Un,
                                         fit: `fill`,
                                         loading: j(
                                           (p?.y || 0) +
-                                            0 +
-                                            5788.2 +
-                                            80 +
-                                            0 +
-                                            0 +
-                                            0 +
-                                            0 +
-                                            2,
+                                          0 +
+                                          5788.2 +
+                                          80 +
+                                          0 +
+                                          0 +
+                                          0 +
+                                          0 +
+                                          2,
                                         ),
                                         pixelHeight: 4032,
                                         pixelWidth: 3024,
-                                        sizes: `max(max(min(${
-                                          p?.width || `100vw`
-                                        } - 32px, 1200px) * 1, 1px) - 4px, 1px)`,
+                                        sizes: `max(max(min(${p?.width || `100vw`
+                                          } - 32px, 1200px) * 1, 1px) - 4px, 1px)`,
                                         src: `https://framerusercontent.com/images/78AwGxquqaeboL0m4XU1togeTNg.jpg?width=3024&height=4032`,
                                         srcSet: `./images/sanoob.png`,
                                       },
@@ -6796,19 +6707,18 @@ var Un,
                                       fit: `fill`,
                                       loading: j(
                                         (p?.y || 0) +
-                                          0 +
-                                          7232.95 +
-                                          0 +
-                                          0 +
-                                          0 +
-                                          0 +
-                                          2,
+                                        0 +
+                                        7232.95 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        0 +
+                                        2,
                                       ),
                                       pixelHeight: 4032,
                                       pixelWidth: 3024,
-                                      sizes: `max(max(max((min(min(${
-                                        p?.width || `100vw`
-                                      } - 280px, 1200px) * 0.9, 1200px) - 40px) / 2.1, 1px) * 1, 1px) - 4px, 1px)`,
+                                      sizes: `max(max(max((min(min(${p?.width || `100vw`
+                                        } - 280px, 1200px) * 0.9, 1200px) - 40px) / 2.1, 1px) * 1, 1px) - 4px, 1px)`,
                                       src: `https://framerusercontent.com/images/78AwGxquqaeboL0m4XU1togeTNg.jpg?width=3024&height=4032`,
                                       srcSet: `./images/sanoob.png`,
                                     },
@@ -6826,9 +6736,8 @@ var Un,
                       breakpoint: E,
                       overrides: {
                         mExYMsC3z: {
-                          width: `min((${
-                            p?.width || `100vw`
-                          } - 80px) * 0.98, 1200px)`,
+                          width: `min((${p?.width || `100vw`
+                            } - 80px) * 0.98, 1200px)`,
                           y: (p?.y || 0) + 0 + 8311.55,
                         },
                         yPVcpR5st: {
@@ -6838,9 +6747,8 @@ var Un,
                       },
                       children: o(v, {
                         height: 494,
-                        width: `min((${
-                          p?.width || `100vw`
-                        } - 280px) * 0.98, 1200px)`,
+                        width: `min((${p?.width || `100vw`
+                          } - 280px) * 0.98, 1200px)`,
                         y: (p?.y || 0) + 0 + 8611.55,
                         children: o(y, {
                           className: `framer-x62rdz-container`,
@@ -6865,37 +6773,37 @@ var Un,
                       }),
                     }),
                     ye() &&
-                      o(C, {
-                        breakpoint: E,
-                        overrides: {
-                          mExYMsC3z: {
-                            height: 80,
-                            width: p?.width || `100vw`,
-                            y: 0,
-                          },
-                          yPVcpR5st: {
-                            height: 80,
-                            width: p?.width || `100vw`,
-                            y: 0,
-                          },
+                    o(C, {
+                      breakpoint: E,
+                      overrides: {
+                        mExYMsC3z: {
+                          height: 80,
+                          width: p?.width || `100vw`,
+                          y: 0,
                         },
-                        children: o(v, {
-                          children: o(y, {
-                            className: `framer-igtfi0-container hidden-i5u8xt`,
-                            layoutScroll: !0,
-                            nodeId: `mcDGveOcN`,
-                            scopeId: `dqkkaMW66`,
-                            children: o(de, {
-                              height: `100%`,
-                              id: `mcDGveOcN`,
-                              layoutId: `mcDGveOcN`,
-                              style: { width: `100%` },
-                              variant: `eNoy_fvLa`,
-                              width: `100%`,
-                            }),
+                        yPVcpR5st: {
+                          height: 80,
+                          width: p?.width || `100vw`,
+                          y: 0,
+                        },
+                      },
+                      children: o(v, {
+                        children: o(y, {
+                          className: `framer-igtfi0-container hidden-i5u8xt`,
+                          layoutScroll: !0,
+                          nodeId: `mcDGveOcN`,
+                          scopeId: `dqkkaMW66`,
+                          children: o(de, {
+                            height: `100%`,
+                            id: `mcDGveOcN`,
+                            layoutId: `mcDGveOcN`,
+                            style: { width: `100%` },
+                            variant: `eNoy_fvLa`,
+                            width: `100%`,
                           }),
                         }),
                       }),
+                    }),
                   ],
                 }),
                 o(`div`, { id: `overlay` }),
