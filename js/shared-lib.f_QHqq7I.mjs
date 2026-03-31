@@ -2134,20 +2134,20 @@ var dt,
                                           a(_, {
                                             href: {
                                               pathVariables: {
-                                                cVobtGrRA: `new-brand-look-and-website`,
+                                                cVobtGrRA: ``,
                                               },
-                                              unresolvedPathSlugs: {
-                                                cVobtGrRA: {
-                                                  collectionId: `HvA2icrab`,
-                                                  collectionItemId: `OkdruZ6lZ`,
-                                                },
-                                              },
-                                              webPageId: `o7Lhg86HO`,
+                                              // unresolvedPathSlugs: {
+                                              //   cVobtGrRA: {
+                                              //     collectionId: ``,
+                                              //     collectionItemId: ``,
+                                              //   },
+                                              // },
+                                              // webPageId: `o7Lhg86HO`,
                                             },
                                             motionChild: !0,
-                                            nodeId: `bOlnbjPAO`,
+                                            nodeId: ``,
                                             openInNewTab: !1,
-                                            scopeId: `X44af24a6`,
+                                            scopeId: ``,
                                             smoothScroll: !1,
                                             children: a(m.a, {
                                               className: `framer-styles-preset-x319l3`,
