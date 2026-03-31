@@ -5785,7 +5785,7 @@ var Un,
                                         id: `nvAgz8olP`,
                                         IMn0WxFMz: `Building, testing, and debugging mobile apps on Android and iOS`,
                                         layoutId: `nvAgz8olP`,
-                                        ps8egKa2j: `Android Studio & Xcode`,
+                                        ps8egKa2j: `Cursor AI Editor`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -5877,7 +5877,7 @@ var Un,
                                         0 +
                                         130.4 +
                                         0 +
-                                        104,
+                                        0,
                                     },
                                     yPVcpR5st: {
                                       width: `max(min(${p?.width || `100vw`
@@ -5891,7 +5891,7 @@ var Un,
                                         0 +
                                         130.4 +
                                         0 +
-                                        312,
+                                        104,
                                     },
                                   },
                                   children: o(v, {
@@ -5907,25 +5907,25 @@ var Un,
                                       0 +
                                       130.4 +
                                       0 +
-                                      104,
+                                      0,
                                     children: o(y, {
-                                      className: `framer-o9ifqe-container`,
-                                      nodeId: `A95eiIcVS`,
+                                      className: `framer-3na1z7-container`,
+                                      nodeId: `nvAgz8olP`,
                                       scopeId: `dqkkaMW66`,
                                       children: o(K, {
                                         CAjvRtXzm: X(
                                           {
                                             pixelHeight: 404,
                                             pixelWidth: 404,
-                                            src: `./images/fb.png`,
+                                            src: `./images/android.png`,
                                           },
                                           ``,
                                         ),
                                         height: `100%`,
-                                        id: `A95eiIcVS`,
-                                        IMn0WxFMz: `Push notifications, authentication, and real-time data management`,
-                                        layoutId: `A95eiIcVS`,
-                                        ps8egKa2j: `Firebase Console`,
+                                        id: `nvAgz8olP`,
+                                        IMn0WxFMz: `Building, testing, and debugging mobile apps on Android and iOS`,
+                                        layoutId: `nvAgz8olP`,
+                                        ps8egKa2j: `Android Studio & Xcode`,
                                         style: { width: `100%` },
                                         width: `100%`,
                                       }),
@@ -6002,6 +6002,77 @@ var Un,
                                     }),
                                   }),
                                 }),
+                                o(C, {
+                                  breakpoint: E,
+                                  overrides: {
+                                    mExYMsC3z: {
+                                      width: `max((min(${p?.width || `100vw`
+                                        } - 80px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        5796.15 +
+                                        0 +
+                                        578.4 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        104,
+                                    },
+                                    yPVcpR5st: {
+                                      width: `max(min(${p?.width || `100vw`
+                                        } - 32px, 1200px), 50px)`,
+                                      y:
+                                        (p?.y || 0) +
+                                        0 +
+                                        4087.4 +
+                                        0 +
+                                        850.4 +
+                                        0 +
+                                        130.4 +
+                                        0 +
+                                        312,
+                                    },
+                                  },
+                                  children: o(v, {
+                                    height: 80,
+                                    width: `max((min(${p?.width || `100vw`
+                                      } - 280px, 1200px) * 0.9 - 24px) / 2, 50px)`,
+                                    y:
+                                      (p?.y || 0) +
+                                      0 +
+                                      5976.15 +
+                                      0 +
+                                      578.4 +
+                                      0 +
+                                      130.4 +
+                                      0 +
+                                      104,
+                                    children: o(y, {
+                                      className: `framer-o9ifqe-container`,
+                                      nodeId: `A95eiIcVS`,
+                                      scopeId: `dqkkaMW66`,
+                                      children: o(K, {
+                                        CAjvRtXzm: X(
+                                          {
+                                            pixelHeight: 404,
+                                            pixelWidth: 404,
+                                            src: `./images/fb.png`,
+                                          },
+                                          ``,
+                                        ),
+                                        height: `100%`,
+                                        id: `A95eiIcVS`,
+                                        IMn0WxFMz: `Push notifications, authentication, and real-time data management`,
+                                        layoutId: `A95eiIcVS`,
+                                        ps8egKa2j: `Firebase Console`,
+                                        style: { width: `100%` },
+                                        width: `100%`,
+                                      }),
+                                    }),
+                                  }),
+                                }),
+
                                 o(C, {
                                   breakpoint: E,
                                   overrides: {
